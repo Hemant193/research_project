@@ -1,0 +1,184 @@
+QUERY: What is the module Advanced Machine Learning about?
+HYPOTHETICAL: This module provides an in-depth exploration of advanced machine learning concepts and techniques at the university level. Students gain practical experience implementing complex algorithms while strengthening their understanding of mathematical foundations, optimization methods, and probabilistic modeling. The focus is on applying these skills to solve real-world problems across domains such as computer vision, natural language processing, and data-driven decision-making.
+--------------------------------------------------------------------------------
+QUERY: How many credit points is the Advanced Machine Learning module worth?
+HYPOTHETICAL: The Advanced Machine Learning module (module code: ML-ADV) is worth 6 credit points. This credit allocation follows the standard ECTS system implemented in the TUHH module handbook. The module is designed for advanced students in computer science and related disciplines.
+--------------------------------------------------------------------------------
+QUERY: What are the recommended prerequisites for Advanced Machine Learning?
+HYPOTHETICAL: The recommended prerequisites for the Advanced Machine Learning module at TUHH include proficiency in programming fundamentals, typically using Python. Students should also possess a solid foundation in linear algebra, calculus, and probability theory. Additionally, prior exposure to core machine learning concepts and algorithms is essential, such as those covered in introductory courses like Machine Learning I.
+--------------------------------------------------------------------------------
+QUERY: Who is responsible for the Advanced Machine Learning module at TUHH?
+HYPOTHETICAL: The Advanced Machine Learning module (module code: 100000000) at TUHH is taught by Prof. Dr. Thomas Hofmann. As the lead lecturer, Prof. Hofmann is responsible for the academic content, assessment, and coordination of the module. This module is part of the Computer Science study programme at the Faculty of Mathematics and Natural Sciences.
+--------------------------------------------------------------------------------
+QUERY: What type of examination does the Advanced Machine Learning module use?
+HYPOTHETICAL: The Advanced Machine Learning module at TUHH is assessed through a written examination. This examination comprises both a written test and a project report. This combination evaluates both theoretical understanding and practical application of machine learning concepts.
+--------------------------------------------------------------------------------
+QUERY: What topics are taught in the Advanced Machine Learning lecture?
+HYPOTHETICAL: The Advanced Machine Learning lecture at TUHH covers core theoretical and practical aspects of modern machine learning techniques. Key topics include deep learning architectures, reinforcement learning frameworks, probabilistic modeling, and advanced optimization methods. Students gain hands-on experience applying these concepts to solve complex real-world data science problems.
+--------------------------------------------------------------------------------
+QUERY: In which semester is the Advanced Machine Learning course offered?
+HYPOTHETICAL: The Advanced Machine Learning course is offered in the summer semester. This module is designed for master's students and typically runs in the second semester of the academic year. It serves as a specialized elective within the computer science curriculum at TUHH.
+--------------------------------------------------------------------------------
+QUERY: Is Advanced Machine Learning compulsory for Data Science students?
+HYPOTHETICAL: Advanced Machine Learning is a compulsory core module for all Data Science students in the TUHH Bachelor of Science program. It is formally required as part of the degree curriculum and carries 6 ECTS credits. This module is essential for achieving the program's academic requirements and is not optional.
+--------------------------------------------------------------------------------
+QUERY: Which TUHH programs include Advanced Machine Learning in their curriculum?
+HYPOTHETICAL: The Technical University of Hanover (TUHH) offers an Advanced Machine Learning module within its Master of Science in Data Science and AI program. This module is also included in the Master of Science in Computer Science curriculum. Both programs integrate this specialized course as part of their advanced curriculum for students pursuing research or industry applications in machine learning.
+--------------------------------------------------------------------------------
+QUERY: What is the workload for the Advanced Machine Learning module?
+HYPOTHETICAL: The Advanced Machine Learning module (6 credits) requires a total workload of approximately 120 hours per semester. This includes 30 hours of lecture time and 90 hours of self-study, assignments, and project work. The workload aligns with the standard TUHH credit-to-hours conversion (1 credit ≈ 25 hours).
+--------------------------------------------------------------------------------
+QUERY: How many hours per week is the Advanced Machine Learning lecture?
+HYPOTHETICAL: The Advanced Machine Learning lecture at TUHH typically requires **2 hours of attendance per week**. This lecture component is part of the module's scheduled teaching activities. The exact weekly hours may vary slightly depending on the specific semester offering, but the standard is **2 hours**.
+--------------------------------------------------------------------------------
+QUERY: What is the difference between Core Qualification and Elective modules in the Data Science program?
+HYPOTHETICAL: In the TUHH Data Science program, Core Qualification modules are mandatory courses that all students must complete to establish foundational knowledge in data science principles and technical skills. Elective modules, in contrast, are optional courses selected from a broader range of specialized topics, allowing students to tailor their studies to specific interests or career goals. This distinction ensures that Core Qualification modules provide essential, unifying expertise for the degree, while Electives enable deeper specialization and flexibility within the program structure.
+--------------------------------------------------------------------------------
+QUERY: How many total credit points are needed to finish the Data Science master?
+HYPOTHETICAL: Students must complete a total of 120 credit points to graduate from the Data Science master's program at TUHH. This credit point requirement covers all mandatory and elective modules, as well as the final thesis. The 120 credit point standard is explicitly stated in the TUHH Data Science master's program handbook.
+--------------------------------------------------------------------------------
+QUERY: I love mathematics and programming. What should I study at TUHH?
+HYPOTHETICAL: If you love mathematics and programming, the **Computer Science Bachelor's program** at TUHH is the ideal choice. This program provides a rigorous foundation in both theoretical mathematics and practical programming through its core curriculum, directly aligning with your interests. You can further specialize in mathematical aspects of computer science during your studies, ensuring a strong interdisciplinary focus.
+--------------------------------------------------------------------------------
+QUERY: I am interested in deep learning and neural networks. Which module covers that?
+HYPOTHETICAL: The module "Deep Learning" (module code 1200000000) covers the theoretical foundations and practical implementation of neural networks and deep learning techniques. This undergraduate-level module focuses on key concepts such as convolutional neural networks, recurrent neural networks, and applications in areas like computer vision and natural language processing. It is part of the Computer Science curriculum at TUHH and provides a structured introduction to modern machine learning approaches.
+--------------------------------------------------------------------------------
+QUERY: I want to understand Generative Adversarial Networks. What module should I take?
+HYPOTHETICAL: For a clear understanding of Generative Adversarial Networks (GANs), you should take the **Deep Learning** module (Module Code: 1200000000). This module explicitly covers GANs as a core application within deep learning frameworks, providing the theoretical foundation and practical implementation skills needed. Register for this module through the TUHH module handbook under the "Computer Science" faculty section to access the relevant lectures and exercises.
+--------------------------------------------------------------------------------
+QUERY: I want to work in AI research after my master. What should I focus on at TUHH?
+HYPOTHETICAL: To pursue AI research after your master's at TUHH, focus on core modules in **Artificial Intelligence, Machine Learning, and Computer Vision** within the Computer Science curriculum. Actively engage with TUHH's dedicated **AI Research Group** for supervised projects and access to cutting-edge tools like TensorFlow and PyTorch through the university's research infrastructure. Prioritize hands-on experience via the **Master's Thesis** in AI or collaborative projects with industry partners to develop the practical skills essential for impactful research.
+--------------------------------------------------------------------------------
+QUERY: I enjoy working in teams and group projects. Are there modules with teamwork?
+HYPOTHETICAL: Here is a concise, factual 3-sentence passage suitable for the TUHH module handbook:
+
+> TUHH offers numerous modules explicitly designed to foster teamwork and collaborative project work. Engineering, computer science, and applied sciences departments include group-based projects, laboratory exercises, and team-based research assignments as standard components of their curricula. Students interested in working in teams will find structured opportunities for practical collaboration across these modules.
+--------------------------------------------------------------------------------
+QUERY: I come from a physics background. Can I apply for the Data Science program?
+HYPOTHETICAL: Yes, students with a physics background are eligible to apply for the Data Science program at TUHH. Your physics training provides a strong foundation in mathematical modeling, statistical analysis, and problem-solving skills, which are directly relevant to the core requirements of the Data Science curriculum. For official admission details and program-specific requirements, please refer to the TUHH Data Science program section in the current module handbook.
+--------------------------------------------------------------------------------
+QUERY: Which modules involve Python programming at TUHH?
+HYPOTHETICAL: The TUHH module handbook specifies that Python programming is explicitly covered in the core module "Programmieren mit Python" (Computer Science Bachelor). Additionally, Python is a primary tool for data analysis and processing in the module "Data Science" (Computer Science Bachelor). Python is also applied within several engineering modules, including "Numerische Methoden" (Engineering Bachelor), where it is used for computational tasks and simulations.
+--------------------------------------------------------------------------------
+QUERY: Is the Advanced Machine Learning course taught in English or German?
+HYPOTHETICAL: The Advanced Machine Learning course at TUHH is taught in English. This language of instruction applies to all lectures, seminars, and assessments for the module. The official course description in the TUHH module handbook explicitly states this English-language requirement.
+--------------------------------------------------------------------------------
+QUERY: How long is the Master of Science Data Science program at TUHH?
+HYPOTHETICAL: The Master of Science in Data Science at TUHH is a full-time program that lasts two academic years. This duration is standard for the Master of Science degree structure as defined in the TUHH module handbook. The program culminates in the award of the Master of Science (M.Sc.) degree upon successful completion of all required modules and the final thesis.
+--------------------------------------------------------------------------------
+QUERY: What are the admission requirements for the Data Science master at TUHH?
+HYPOTHETICAL: The Data Science master's program at TUHH requires applicants to hold a bachelor's degree in a relevant field such as computer science, mathematics, statistics, or engineering. Specific academic prerequisites include proficiency in programming, data analysis, and mathematical fundamentals, typically demonstrated through completed coursework. International students must provide proof of language proficiency in English (e.g., TOEFL, IELTS) or German, depending on the language of instruction for their application.
+--------------------------------------------------------------------------------
+QUERY: What literature is recommended for the Advanced Machine Learning module?
+HYPOTHETICAL: The Advanced Machine Learning module at TUHH recommends *Pattern Recognition and Machine Learning* by Christopher M. Bishop as the primary foundational textbook. Students are also advised to consult the recent survey paper "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville for comprehensive coverage of contemporary techniques. This literature combination provides essential theoretical grounding and practical context for the module's advanced topics.
+--------------------------------------------------------------------------------
+QUERY: What is the difference between Data Science and Computer Science programs at TUHH?
+HYPOTHETICAL: Computer Science at TUHH provides a strong foundation in theoretical computer science, software engineering, and algorithmic problem-solving, emphasizing core principles of computation and system design. In contrast, the Data Science program focuses on practical data analysis, machine learning, statistical modeling, and real-world data-driven applications, integrating domain knowledge with computational techniques. This distinction results in Computer Science graduates being well-prepared for traditional software development and systems roles, while Data Science graduates specialize in extracting insights and building solutions from complex data.
+--------------------------------------------------------------------------------
+QUERY: Which programs at TUHH share the Advanced Machine Learning module?
+HYPOTHETICAL: The Advanced Machine Learning module is included in the curriculum for students pursuing the Bachelor of Science in Computer Science, the Master of Science in Computer Science, and the Master of Science in Data Science at TUHH. This module provides advanced theoretical and practical training in machine learning methodologies. Students enrolled in these specific academic programs are required to complete this module as part of their degree requirements.
+--------------------------------------------------------------------------------
+QUERY: Which TUHH programs involve machine learning?
+HYPOTHETICAL: The Technical University of Hanover (TUHH) offers machine learning modules within its Bachelor of Science in Computer Science program. Additionally, the Bachelor of Engineering in Electrical Engineering includes specialized courses in machine learning applications. These programs integrate machine learning as part of their curriculum to provide students with relevant technical skills.
+--------------------------------------------------------------------------------
+QUERY: What skills will I have after completing the Data Science master?
+HYPOTHETICAL: After completing the Data Science master's program at TUHH, you will have developed strong technical proficiency in Python, SQL, and data manipulation tools such as Pandas and NumPy. You will also possess advanced skills in statistical modeling, machine learning algorithms, and the ability to interpret complex data to derive actionable insights. Finally, you will be equipped with the practical expertise to solve real-world data-driven problems using a structured analytical approach.
+--------------------------------------------------------------------------------
+QUERY: I want to combine engineering with advanced mathematics. What do you recommend?
+HYPOTHETICAL: The Technical University of Hanover (TUHH) offers a dedicated dual degree program combining engineering studies with advanced mathematics, providing a structured pathway for students seeking this integration. Within engineering disciplines such as mechanical, electrical, or computer engineering, specialized modules in applied mathematics, computational methods, and optimization are available to deepen technical proficiency alongside mathematical theory. This approach ensures students develop the analytical and problem-solving skills essential for complex engineering challenges while maintaining a rigorous mathematical foundation.
+--------------------------------------------------------------------------------
+QUERY: Are there modules compulsory across multiple TUHH master programs?
+HYPOTHETICAL: Yes, certain modules are compulsory across multiple TUHH master programs. Specifically, the "Master's Core" modules (e.g., *Advanced Research Methods*, *Professional Ethics in Technology*, and *Interdisciplinary Problem Solving*) are required for all students enrolled in the Master of Science in Engineering, Master of Business Administration, and Master of Social Sciences programs. These cross-programme compulsory modules ensure foundational competencies and interdisciplinary alignment for graduates across these disciplines.
+--------------------------------------------------------------------------------
+QUERY: What is the module Advanced Machine Learning about?
+HYPOTHETICAL: This module provides an in-depth exploration of advanced machine learning concepts and techniques at the university level. Students gain practical experience implementing complex algorithms while strengthening their understanding of mathematical foundations, optimization methods, and probabilistic modeling. The focus is on applying these skills to solve real-world problems across domains such as computer vision, natural language processing, and data-driven decision-making.
+--------------------------------------------------------------------------------
+QUERY: How many credit points is the Advanced Machine Learning module worth?
+HYPOTHETICAL: The Advanced Machine Learning module (module code: ML-ADV) is worth 6 credit points. This credit allocation follows the standard ECTS system implemented in the TUHH module handbook. The module is designed for advanced students in computer science and related disciplines.
+--------------------------------------------------------------------------------
+QUERY: What are the recommended prerequisites for Advanced Machine Learning?
+HYPOTHETICAL: The recommended prerequisites for the Advanced Machine Learning module at TUHH include proficiency in programming fundamentals, typically using Python. Students should also possess a solid foundation in linear algebra, calculus, and probability theory. Additionally, prior exposure to core machine learning concepts and algorithms is essential, such as those covered in introductory courses like Machine Learning I.
+--------------------------------------------------------------------------------
+QUERY: Who is responsible for the Advanced Machine Learning module at TUHH?
+HYPOTHETICAL: The Advanced Machine Learning module (module code: 100000000) at TUHH is taught by Prof. Dr. Thomas Hofmann. As the lead lecturer, Prof. Hofmann is responsible for the academic content, assessment, and coordination of the module. This module is part of the Computer Science study programme at the Faculty of Mathematics and Natural Sciences.
+--------------------------------------------------------------------------------
+QUERY: What type of examination does the Advanced Machine Learning module use?
+HYPOTHETICAL: The Advanced Machine Learning module at TUHH is assessed through a written examination. This examination comprises both a written test and a project report. This combination evaluates both theoretical understanding and practical application of machine learning concepts.
+--------------------------------------------------------------------------------
+QUERY: What topics are taught in the Advanced Machine Learning lecture?
+HYPOTHETICAL: The Advanced Machine Learning lecture at TUHH covers core theoretical and practical aspects of modern machine learning techniques. Key topics include deep learning architectures, reinforcement learning frameworks, probabilistic modeling, and advanced optimization methods. Students gain hands-on experience applying these concepts to solve complex real-world data science problems.
+--------------------------------------------------------------------------------
+QUERY: In which semester is the Advanced Machine Learning course offered?
+HYPOTHETICAL: The Advanced Machine Learning course is offered in the summer semester. This module is designed for master's students and typically runs in the second semester of the academic year. It serves as a specialized elective within the computer science curriculum at TUHH.
+--------------------------------------------------------------------------------
+QUERY: Is Advanced Machine Learning compulsory for Data Science students?
+HYPOTHETICAL: Advanced Machine Learning is a compulsory core module for all Data Science students in the TUHH Bachelor of Science program. It is formally required as part of the degree curriculum and carries 6 ECTS credits. This module is essential for achieving the program's academic requirements and is not optional.
+--------------------------------------------------------------------------------
+QUERY: Which TUHH programs include Advanced Machine Learning in their curriculum?
+HYPOTHETICAL: The Technical University of Hanover (TUHH) offers an Advanced Machine Learning module within its Master of Science in Data Science and AI program. This module is also included in the Master of Science in Computer Science curriculum. Both programs integrate this specialized course as part of their advanced curriculum for students pursuing research or industry applications in machine learning.
+--------------------------------------------------------------------------------
+QUERY: What is the workload for the Advanced Machine Learning module?
+HYPOTHETICAL: The Advanced Machine Learning module (6 credits) requires a total workload of approximately 120 hours per semester. This includes 30 hours of lecture time and 90 hours of self-study, assignments, and project work. The workload aligns with the standard TUHH credit-to-hours conversion (1 credit ≈ 25 hours).
+--------------------------------------------------------------------------------
+QUERY: How many hours per week is the Advanced Machine Learning lecture?
+HYPOTHETICAL: The Advanced Machine Learning lecture at TUHH typically requires **2 hours of attendance per week**. This lecture component is part of the module's scheduled teaching activities. The exact weekly hours may vary slightly depending on the specific semester offering, but the standard is **2 hours**.
+--------------------------------------------------------------------------------
+QUERY: What is the difference between Core Qualification and Elective modules in the Data Science program?
+HYPOTHETICAL: In the TUHH Data Science program, Core Qualification modules are mandatory courses that all students must complete to establish foundational knowledge in data science principles and technical skills. Elective modules, in contrast, are optional courses selected from a broader range of specialized topics, allowing students to tailor their studies to specific interests or career goals. This distinction ensures that Core Qualification modules provide essential, unifying expertise for the degree, while Electives enable deeper specialization and flexibility within the program structure.
+--------------------------------------------------------------------------------
+QUERY: How many total credit points are needed to finish the Data Science master?
+HYPOTHETICAL: Students must complete a total of 120 credit points to graduate from the Data Science master's program at TUHH. This credit point requirement covers all mandatory and elective modules, as well as the final thesis. The 120 credit point standard is explicitly stated in the TUHH Data Science master's program handbook.
+--------------------------------------------------------------------------------
+QUERY: I love mathematics and programming. What should I study at TUHH?
+HYPOTHETICAL: If you love mathematics and programming, the **Computer Science Bachelor's program** at TUHH is the ideal choice. This program provides a rigorous foundation in both theoretical mathematics and practical programming through its core curriculum, directly aligning with your interests. You can further specialize in mathematical aspects of computer science during your studies, ensuring a strong interdisciplinary focus.
+--------------------------------------------------------------------------------
+QUERY: I am interested in deep learning and neural networks. Which module covers that?
+HYPOTHETICAL: The module "Deep Learning" (module code 1200000000) covers the theoretical foundations and practical implementation of neural networks and deep learning techniques. This undergraduate-level module focuses on key concepts such as convolutional neural networks, recurrent neural networks, and applications in areas like computer vision and natural language processing. It is part of the Computer Science curriculum at TUHH and provides a structured introduction to modern machine learning approaches.
+--------------------------------------------------------------------------------
+QUERY: I want to understand Generative Adversarial Networks. What module should I take?
+HYPOTHETICAL: For a clear understanding of Generative Adversarial Networks (GANs), you should take the **Deep Learning** module (Module Code: 1200000000). This module explicitly covers GANs as a core application within deep learning frameworks, providing the theoretical foundation and practical implementation skills needed. Register for this module through the TUHH module handbook under the "Computer Science" faculty section to access the relevant lectures and exercises.
+--------------------------------------------------------------------------------
+QUERY: I want to work in AI research after my master. What should I focus on at TUHH?
+HYPOTHETICAL: To pursue AI research after your master's at TUHH, focus on core modules in **Artificial Intelligence, Machine Learning, and Computer Vision** within the Computer Science curriculum. Actively engage with TUHH's dedicated **AI Research Group** for supervised projects and access to cutting-edge tools like TensorFlow and PyTorch through the university's research infrastructure. Prioritize hands-on experience via the **Master's Thesis** in AI or collaborative projects with industry partners to develop the practical skills essential for impactful research.
+--------------------------------------------------------------------------------
+QUERY: I enjoy working in teams and group projects. Are there modules with teamwork?
+HYPOTHETICAL: Here is a concise, factual 3-sentence passage suitable for the TUHH module handbook:
+
+> TUHH offers numerous modules explicitly designed to foster teamwork and collaborative project work. Engineering, computer science, and applied sciences departments include group-based projects, laboratory exercises, and team-based research assignments as standard components of their curricula. Students interested in working in teams will find structured opportunities for practical collaboration across these modules.
+--------------------------------------------------------------------------------
+QUERY: I come from a physics background. Can I apply for the Data Science program?
+HYPOTHETICAL: Yes, students with a physics background are eligible to apply for the Data Science program at TUHH. Your physics training provides a strong foundation in mathematical modeling, statistical analysis, and problem-solving skills, which are directly relevant to the core requirements of the Data Science curriculum. For official admission details and program-specific requirements, please refer to the TUHH Data Science program section in the current module handbook.
+--------------------------------------------------------------------------------
+QUERY: Which modules involve Python programming at TUHH?
+HYPOTHETICAL: The TUHH module handbook specifies that Python programming is explicitly covered in the core module "Programmieren mit Python" (Computer Science Bachelor). Additionally, Python is a primary tool for data analysis and processing in the module "Data Science" (Computer Science Bachelor). Python is also applied within several engineering modules, including "Numerische Methoden" (Engineering Bachelor), where it is used for computational tasks and simulations.
+--------------------------------------------------------------------------------
+QUERY: Is the Advanced Machine Learning course taught in English or German?
+HYPOTHETICAL: The Advanced Machine Learning course at TUHH is taught in English. This language of instruction applies to all lectures, seminars, and assessments for the module. The official course description in the TUHH module handbook explicitly states this English-language requirement.
+--------------------------------------------------------------------------------
+QUERY: How long is the Master of Science Data Science program at TUHH?
+HYPOTHETICAL: The Master of Science in Data Science at TUHH is a full-time program that lasts two academic years. This duration is standard for the Master of Science degree structure as defined in the TUHH module handbook. The program culminates in the award of the Master of Science (M.Sc.) degree upon successful completion of all required modules and the final thesis.
+--------------------------------------------------------------------------------
+QUERY: What are the admission requirements for the Data Science master at TUHH?
+HYPOTHETICAL: The Data Science master's program at TUHH requires applicants to hold a bachelor's degree in a relevant field such as computer science, mathematics, statistics, or engineering. Specific academic prerequisites include proficiency in programming, data analysis, and mathematical fundamentals, typically demonstrated through completed coursework. International students must provide proof of language proficiency in English (e.g., TOEFL, IELTS) or German, depending on the language of instruction for their application.
+--------------------------------------------------------------------------------
+QUERY: What literature is recommended for the Advanced Machine Learning module?
+HYPOTHETICAL: The Advanced Machine Learning module at TUHH recommends *Pattern Recognition and Machine Learning* by Christopher M. Bishop as the primary foundational textbook. Students are also advised to consult the recent survey paper "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville for comprehensive coverage of contemporary techniques. This literature combination provides essential theoretical grounding and practical context for the module's advanced topics.
+--------------------------------------------------------------------------------
+QUERY: What is the difference between Data Science and Computer Science programs at TUHH?
+HYPOTHETICAL: Computer Science at TUHH provides a strong foundation in theoretical computer science, software engineering, and algorithmic problem-solving, emphasizing core principles of computation and system design. In contrast, the Data Science program focuses on practical data analysis, machine learning, statistical modeling, and real-world data-driven applications, integrating domain knowledge with computational techniques. This distinction results in Computer Science graduates being well-prepared for traditional software development and systems roles, while Data Science graduates specialize in extracting insights and building solutions from complex data.
+--------------------------------------------------------------------------------
+QUERY: Which programs at TUHH share the Advanced Machine Learning module?
+HYPOTHETICAL: The Advanced Machine Learning module is included in the curriculum for students pursuing the Bachelor of Science in Computer Science, the Master of Science in Computer Science, and the Master of Science in Data Science at TUHH. This module provides advanced theoretical and practical training in machine learning methodologies. Students enrolled in these specific academic programs are required to complete this module as part of their degree requirements.
+--------------------------------------------------------------------------------
+QUERY: Which TUHH programs involve machine learning?
+HYPOTHETICAL: The Technical University of Hanover (TUHH) offers machine learning modules within its Bachelor of Science in Computer Science program. Additionally, the Bachelor of Engineering in Electrical Engineering includes specialized courses in machine learning applications. These programs integrate machine learning as part of their curriculum to provide students with relevant technical skills.
+--------------------------------------------------------------------------------
+QUERY: What skills will I have after completing the Data Science master?
+HYPOTHETICAL: After completing the Data Science master's program at TUHH, you will have developed strong technical proficiency in Python, SQL, and data manipulation tools such as Pandas and NumPy. You will also possess advanced skills in statistical modeling, machine learning algorithms, and the ability to interpret complex data to derive actionable insights. Finally, you will be equipped with the practical expertise to solve real-world data-driven problems using a structured analytical approach.
+--------------------------------------------------------------------------------
+QUERY: I want to combine engineering with advanced mathematics. What do you recommend?
+HYPOTHETICAL: The Technical University of Hanover (TUHH) offers a dedicated dual degree program combining engineering studies with advanced mathematics, providing a structured pathway for students seeking this integration. Within engineering disciplines such as mechanical, electrical, or computer engineering, specialized modules in applied mathematics, computational methods, and optimization are available to deepen technical proficiency alongside mathematical theory. This approach ensures students develop the analytical and problem-solving skills essential for complex engineering challenges while maintaining a rigorous mathematical foundation.
+--------------------------------------------------------------------------------
+QUERY: Are there modules compulsory across multiple TUHH master programs?
+HYPOTHETICAL: Yes, certain modules are compulsory across multiple TUHH master programs. Specifically, the "Master's Core" modules (e.g., *Advanced Research Methods*, *Professional Ethics in Technology*, and *Interdisciplinary Problem Solving*) are required for all students enrolled in the Master of Science in Engineering, Master of Business Administration, and Master of Social Sciences programs. These cross-programme compulsory modules ensure foundational competencies and interdisciplinary alignment for graduates across these disciplines.
+--------------------------------------------------------------------------------

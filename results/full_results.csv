@@ -1,0 +1,492 @@
+strategy,query_id,category,difficulty,query,gold_answer,hit_at_5,kw_cov,mrr,latency_s,answer,n_docs
+Sparse (BM25),Q01,direct_module,easy,What is the module Advanced Machine Learning about?,"Advanced Machine Learning (M1552) covers neural networks, backpropagation, CNNs, RNNs, GANs, Autoencoders and Transformers. It is worth 6 CP, examined by a 90-minute written exam, and taught in English in the winter semester.",1,0.75,0.5,3.48,The module Advanced Machine Learning is part of the Master in Data Science program at the Technical University of Hamburg.,5
+Sparse (BM25),Q02,direct_module,easy,How many credit points is the Advanced Machine Learning module worth?,6 credit points (CP).,1,1.0,0.5,1.07,The Advanced Machine Learning module (L2322) is worth 3 credit points.,5
+Sparse (BM25),Q03,direct_module,easy,What are the recommended prerequisites for Advanced Machine Learning?,"Mathematics I-III, Numerical Mathematics / Numerics, and programming skills preferably in Python.",1,0.333,1.0,3.43,"Based on the provided context, I recommend the Master in Data Science program as it aligns with your interests in Advanced Machine Learning. The program covers topics such as Reinforcement Learning, Programming Paradigms, and additional recommended knowledge and prerequisites like Python programming and data visualization. As a Data Science student, you will have a solid foundation in machine learning concepts, which will be beneficial for your future studies in Advanced Machine Learning.",5
+Sparse (BM25),Q04,direct_module,easy,Who is responsible for the Advanced Machine Learning module at TUHH?,Dr. Jens-Peter Zemke.,1,1.0,0.2,1.35,The Advanced Machine Learning module at TUHH is responsible for Dr. Jens-Peter Zemke.,5
+Sparse (BM25),Q05,direct_module,easy,What type of examination does the Advanced Machine Learning module use?,"Written exam, 90 minutes.",0,0.0,0.0,1.22,"The Advanced Machine Learning module, M1552, uses a combination of lectures and recitation sections.",5
+Sparse (BM25),Q06,direct_module,medium,What topics are taught in the Advanced Machine Learning lecture?,Basics of neural nets; feedforward networks and backpropagation; CNNs; RNNs; adversarial attacks; residual networks; neural ODEs; autoencoders; GANs; attention and transformers.,0,0.0,0.0,1.7,"In the Advanced Machine Learning lecture (L2322), topics such as Linear Models and Regression, Big Data, Information Geometry, and Advanced Ethics of Machine Learning are covered.",5
+Sparse (BM25),Q07,direct_module,easy,In which semester is the Advanced Machine Learning course offered?,Winter semester (WiSe).,0,0.0,0.0,1.23,The Advanced Machine Learning course is offered in semester 4 of the Master in Data Science program.,5
+Sparse (BM25),Q08,curriculum_structure,medium,Is Advanced Machine Learning compulsory for Data Science students?,Yes — it is listed as Core Qualification: Compulsory in the Data Science curriculum.,1,1.0,1.0,2.82,"According to the provided Module Manual, Advanced Machine Learning is not compulsory for Data Science students. The core qualification contains a seminar (3 CP), a lecture on scientific methods (3 CP), a research project (12 CP), and the interdisciplinary compulsory modules on operations & management (6 CP) and on non-technical courses (6 CP), but not Advanced Machine Learning.",5
+Sparse (BM25),Q09,curriculum_structure,medium,Which TUHH programs include Advanced Machine Learning in their curriculum?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, and Theoretical Mechanical Engineering.",1,0.667,1.0,4.13,"Based on the provided context, the TUHH programs that include Advanced Machine Learning in their curriculum are:
+
+1. Master in Data Science (M.Sc. ""Data Science"")
+2. Master in Computer Science (M.Sc. ""Computer Science"")
+3. Master in Data Science (M.Sc. ""Data Science"" - Advanced Ethics of Machine Learning, M.Sc. ""Data Science"" - Machine Learning in Electrical Engineering and Information Technology)
+
+These programs cover Advanced Machine Learning as a core component of their curricula.",5
+Sparse (BM25),Q10,curriculum_structure,medium,What is the workload for the Advanced Machine Learning module?,Total workload 124 hours: Independent Study Time 62 h + Study Time in Lecture 28 h for the course component.,1,0.25,0.25,1.72,"The workload for the Advanced Machine Learning module is 12 CP (Course Points) per semester, which is equivalent to 4 hours of study per week.",5
+Sparse (BM25),Q11,curriculum_structure,medium,How many hours per week is the Advanced Machine Learning lecture?,2 hours/week lecture + 2 hours/week recitation (small group) = 4 hrs/wk total.,1,0.667,1.0,1.19,The Advanced Machine Learning lecture is scheduled for 2 hours and 3 weeks.,5
+Sparse (BM25),Q12,curriculum_structure,hard,What is the difference between Core Qualification and Elective modules in the Data Science program?,Core Qualification modules are compulsory for all program students. Elective modules are optional and allow specialisation in a sub-field.,1,0.667,1.0,6.78,"I don't have enough information about the specific differences between Core Qualification and Elective modules in the Data Science program. However, based on the provided context, it appears that the Core Qualification consists of compulsory modules, while Elective modules offer more flexibility and choice.
+
+In the context of the Data Science program, the Core Qualification is designed to provide a solid foundation in the field, while Elective modules allow students to explore specific areas of interest in more depth. The Elective modules, such as the one on ""Professional Competence"" mentioned in the context, seem to focus on practical skills and knowledge that can be applied in real-world settings.
+
+If you're interested in pursuing a specific area of study, I would recommend exploring the Elective modules that align with your interests. This will give you a better understanding of the program's structure and help you make an informed decision about which modules to take.",5
+Sparse (BM25),Q13,curriculum_structure,hard,How many total credit points are needed to finish the Data Science master?,120 credit points — standard for a 4-semester German M.Sc.,1,0.5,1.0,2.26,"To finish the Data Science master, you need to complete the core qualification, which consists of 66 credit points. You also need to choose 18 credit points from the catalog of the specialization ""Materials Science and Engineering"".",5
+Sparse (BM25),Q14,recommendation,medium,I love mathematics and programming. What should I study at TUHH?,Data Science or Computer Science would suit you well — both require strong mathematical foundations and programming (Python).,1,0.333,1.0,5.54,"Based on your interests in mathematics and programming, I would recommend studying the Master's program in Computer Science (M.Sc. ""Computer Science"") at TUHH. This program covers advanced topics in computer science, including programming, data structures, algorithms, and software engineering. The Advanced Seminar EIM I (L3385) is a relevant course that focuses on computer science and information technology, which aligns with your interests.
+
+This program is highly recommended because it provides a solid foundation in computer science and programming, which will enable you to pursue a career in software development, data science, or related fields. Additionally, the program's emphasis on mathematical concepts, such as linear algebra and calculus, will also be beneficial for your future studies and career.",5
+Sparse (BM25),Q15,recommendation,easy,I am interested in deep learning and neural networks. Which module covers that?,"Advanced Machine Learning (M1552) directly covers deep learning: CNNs, RNNs, GANs, Autoencoders, and Transformers.",1,0.333,1.0,2.84,"Based on the provided context, the module that covers deep learning and neural networks is ""Products, services and processes"" (3.3). This module introduces the fundamentals and current state of machine learning for natural language processing (NLP) and graphs in terms of content, users, and social relations, with a particular emphasis on key advancements in deep learning architectures.",5
+Sparse (BM25),Q16,recommendation,medium,I want to understand Generative Adversarial Networks. What module should I take?,Advanced Machine Learning (M1552) covers GANs and Autoencoders as part of its lecture content.,1,0.333,1.0,3.36,"Based on the provided context, I would recommend taking Module L3008: Machine Learning Applications in Electric Power Systems. This module covers supervised learning problems, including Generative Adversarial Networks (GANs), which are a type of Generative Adversarial Network. The module is designed for students interested in applying machine learning techniques to electric power systems, which aligns with your interest in understanding GANs.",5
+Sparse (BM25),Q17,recommendation,hard,I want to work in AI research after my master. What should I focus on at TUHH?,"Focus on the Data Science core qualification modules especially Advanced Machine Learning, supplement with research-track electives, and invest heavily in your master thesis.",1,0.667,0.333,3.37,"Based on the provided context, I would recommend the Master in Data Science at TUHH. This program covers the basics of mechanics, mathematics, and data science, which aligns with your interest in AI research. The Master in Data Science is a comprehensive program that provides a solid foundation in data science, machine learning, and AI, making it an ideal choice for pursuing a career in AI research.",5
+Sparse (BM25),Q18,recommendation,medium,I enjoy working in teams and group projects. Are there modules with teamwork?,Yes — Advanced Machine Learning explicitly develops social competence: joint solutions in small teams and group development of ideas.,1,0.667,1.0,5.67,"You're interested in exploring teamwork and collaboration in a project-based environment. The Master in Data Science at TUHH covers various modules that focus on teamwork and collaboration, such as:
+
+* ""Design Thinking"" (as mentioned in the context), which emphasizes the importance of teamwork and collaboration in the design process.
+* ""Agile Design Methods"" (recommended), which introduces students to the principles of agile design and teamwork.
+* ""Project Management"" (not explicitly mentioned, but implied), which covers the management of complex projects, including teamwork and collaboration.
+
+I recommend the Master in Data Science because it provides a comprehensive education in data science, machine learning, and data analysis, with a strong focus on teamwork and collaboration. The program's emphasis on working with industry partners and working on real-world projects will help you develop essential skills in teamwork and collaboration.",5
+Sparse (BM25),Q19,recommendation,hard,I come from a physics background. Can I apply for the Data Science program?,"Physics graduates typically have the required mathematical background (analysis, linear algebra, numerics) aligned with recommended prerequisites.",0,0.0,0.0,8.98,"As a physics background, you may find the Data Science program at TUHH to be a suitable fit. The program covers a range of topics, including data analysis, machine learning, and statistical modeling, which are all relevant to physics and engineering applications.
+
+The Data Science program is designed to provide students with a solid foundation in programming, data structures, and algorithms, as well as hands-on experience with data analysis and visualization tools. You can expect to learn about statistical methods, data mining, and data visualization techniques, which are all essential skills for physicists working in fields such as astrophysics, materials science, or climate science.
+
+Additionally, the Data Science program places a strong emphasis on programming languages such as Python, R, and Julia, which are commonly used in physics and engineering applications. You can expect to work on projects that involve data analysis, machine learning, and visualization, which are all relevant to your physics background.
+
+The program also offers a range of electives and specializations, such as machine learning, data science, and computational modeling, which can help you to specialize in areas that interest you the most.
+
+Overall, the Data Science program at TUHH is a great fit for students with a physics background, and can provide you with the skills and knowledge you need to pursue a career in data science and related fields.",5
+Sparse (BM25),Q20,recommendation,medium,Which modules involve Python programming at TUHH?,Advanced Machine Learning explicitly recommends Python. Most Data Science core modules also use Python for implementations.,1,1.0,1.0,5.09,"Based on the provided context, the following modules at TUHH involve Python programming:
+
+1. Mathematics I and Mathematics II (as taught in the modules ""Knowledge moments, stress, linear strain, free-body principle, linear-elastic constitutive laws, strain energy"")
+2. Engineering Mechanics I and Engineering Mechanics II (as taught in the modules ""forces and Knowledge moments, stress, linear strain, free-body principle, linear-elastic constitutive laws, strain energy"")
+
+These modules are the recommended prerequisites for participation in the seminar part of the course, which involves practical project work in simulated 2D- or 3D environments using virtual agents.",5
+Sparse (BM25),Q21,logistics,easy,Is the Advanced Machine Learning course taught in English or German?,English (language code EN).,1,0.5,1.0,1.93,"The Advanced Machine Learning course taught in the M.Sc. ""Data Science"" module at TUHH is taught in English.",5
+Sparse (BM25),Q22,logistics,easy,How long is the Master of Science Data Science program at TUHH?,4 semesters (2 years).,1,1.0,1.0,1.9,"The Master of Science in Data Science program at TUHH is a 1.5-year program, which is equivalent to one and a half semesters.",5
+Sparse (BM25),Q23,logistics,medium,What are the admission requirements for the Data Science master at TUHH?,A relevant bachelor's degree with sufficient mathematical background. Individual module admission requirements are listed as 'None'.,1,0.5,1.0,8.36,"Based on the provided context, the admission requirements for the Data Science master at TUHH include:
+
+- A bachelor's degree in a relevant field, such as mathematics, computer science, or engineering
+- A strong academic record, with a minimum GPA of 2.5
+- Proficiency in one of the following programming languages: Python, R, or SQL
+- A portfolio or a personal project that demonstrates skills in data analysis, machine learning, or programming
+- A written exam or a presentation that showcases knowledge of data science concepts and techniques
+
+I don't have enough information about the specific requirements for the Data Science master at TUHH, as the provided context only mentions the general admission requirements for the master program.",5
+Sparse (BM25),Q24,logistics,easy,What literature is recommended for the Advanced Machine Learning module?,Script by the lecturer; online resources including neuralnetworksanddeeplearning.com and deeplearningbook.org.,0,0.0,0.0,11.12,"For the Advanced Machine Learning module (L2322), I recommend the following literature:
+
+- ""Deep Learning"" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (book)
+- ""Deep Learning with Python"" by François Chollet (book)
+- ""Python Machine Learning"" by Sebastian Raschka (book)
+- ""Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"" by Aurélien Géron (book)
+- ""Deep Learning Specialization"" by Andrew Ng (online course)
+
+These resources provide a comprehensive introduction to deep learning concepts, including neural networks, convolutional neural networks, and recurrent neural networks. They also cover the necessary programming skills in Python, which is the primary language used in the module.",5
+Sparse (BM25),Q25,comparative,hard,What is the difference between Data Science and Computer Science programs at TUHH?,Both share modules like Advanced Machine Learning. Data Science focuses more on statistical methods and data pipelines; Computer Science covers a broader set of software and systems topics.,1,1.0,0.5,16.6,"Based on the provided context, the main difference between Data Science and Computer Science programs at TUHH lies in their focus and content.
+
+The Master's program in Data Science at TUHH is characterized by its scientific orientation, clear focus in terms of content, and communication of its scientific approach. This program covers specializations such as Data Science & Mathematics, Data Science & Mathematics, and Special Focus Area, which indicate a strong emphasis on mathematical and computational aspects of data science.
+
+In contrast, the Master's program in Computer Science at TUHH is more focused on the practical application of computer science concepts, with a greater emphasis on programming, software engineering, and software and signal processing. While there are some elective courses that cover data science topics, the overall focus of the program is more on the technical aspects of computer science.
+
+If you're interested in pursuing a Master's program in Data Science at TUHH, I would recommend considering this program because of its strong emphasis on mathematical and computational aspects of data science, which aligns with your interests.",5
+Sparse (BM25),Q26,comparative,medium,Which programs at TUHH share the Advanced Machine Learning module?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, Theoretical Mechanical Engineering.",1,0.333,1.0,6.28,"Based on the provided context, the programs at TUHH that share the Advanced Machine Learning module are:
+
+1. Master in Data Science (M.Sc. ""Data Science"")
+2. Master in Computer Science (M.Sc. ""Computer Science"")
+3. Master in Information and Communication Systems (M.Sc. ""Information and Communication Systems"")
+
+These programs all have the Advanced Machine Learning module as a required course.",5
+Sparse (BM25),Q27,comparative,hard,Which TUHH programs involve machine learning?,"Data Science, Computer Science, Computational Methods and Machine Learning in Engineering, Mechatronics, and Technomathematics all include machine learning modules.",1,0.333,0.5,2.54,"Based on the provided context, the Master's program in Environmental Engineering at TUHH involves machine learning.",5
+Sparse (BM25),Q28,comparative,hard,What skills will I have after completing the Data Science master?,Professional knowledge: classify state-of-the-art neural networks. Practical skills: implement and apply neural networks to new domains. Social: collaborate in small teams. Autonomy: self-direct work and assess correctness independently.,1,0.75,1.0,10.74,"Based on the provided context, after completing the Data Science master at the Technical University of Hamburg, you will have developed skills in:
+
+1. Developing framework and strategies for enabling a supportive environment for fostering creativity and innovation, which aligns with the program's focus on Data Science and its applications in various industries.
+2. Assessing and auditing the technology capabilities of a business, which is a key aspect of the Data Science master, as it involves analyzing data and presenting findings to stakeholders.
+3. Analyzing the problems related to creativity, innovation, and technology management, which is also a core component of the Data Science master.
+
+These skills will enable you to apply theoretical knowledge in real-life business cases, work in a real company, and make valuable contacts in the business world.",5
+Sparse (BM25),Q29,comparative,hard,I want to combine engineering with advanced mathematics. What do you recommend?,Technomathematics or Interdisciplinary Mathematics combine rigorous mathematics with engineering applications. Computational Methods and Machine Learning in Engineering is also very relevant.,0,0.0,0.0,12.27,"Based on the provided context, I would recommend the Master in Data Science at TUHH. This program aligns with your interest in combining engineering with advanced mathematics, as it covers topics such as designing the Internet of Things and discussing underlying principles and mechanisms.
+
+The Master in Data Science at TUHH is a well-regarded program that provides students with a comprehensive education in data science, including machine learning, artificial intelligence, and data mining. The program is designed to equip students with the skills and knowledge needed to work in various industries, including engineering, and to develop innovative solutions to complex problems.
+
+By combining engineering and advanced mathematics, you will gain a deep understanding of the technical aspects of data science and be able to apply your knowledge to real-world problems. The program's focus on data science and its applications will provide you with a strong foundation in both engineering and mathematics.",5
+Sparse (BM25),Q30,comparative,hard,Are there modules compulsory across multiple TUHH master programs?,Yes. Advanced Machine Learning (M1552) is compulsory in both Data Science (Core Qualification) and in Computational Methods and Machine Learning in Engineering.,1,0.667,1.0,13.06,"I don't have enough information about the specific modules across multiple TUHH master programs. However, I can suggest that you review the module handbook for each relevant master program to determine if there are any modules that are compulsory across multiple programs.
+
+If you're looking for a master program that covers a broad range of topics, I would recommend considering the ""Master in Data Science"" program, which covers topics such as data analysis, machine learning, and data visualization. This program is designed to provide students with a comprehensive understanding of data science concepts and is offered across multiple specializations, including Coastal Engineering, Geotechnical Engineering, Structural Engineering, Water and Traffic, and Computational Engineering.
+
+The program structure consists of a core qualification, which covers 66 CP in four semesters, and an additional 120 CPs in four semesters over a two-year period. The core qualification includes compulsory courses, elective courses, and a master thesis.",5
+Dense (Vector),Q01,direct_module,easy,What is the module Advanced Machine Learning about?,"Advanced Machine Learning (M1552) covers neural networks, backpropagation, CNNs, RNNs, GANs, Autoencoders and Transformers. It is worth 6 CP, examined by a 90-minute written exam, and taught in English in the winter semester.",0,0.0,0.0,6.38,"The module Advanced Machine Learning is part of the Master's program GTIME (Source: Masters_GTIME). This module focuses on the application of machine learning techniques to various domains, including data science, business, and innovation. It aims to equip students with the necessary knowledge and skills to analyze and synthesize state-of-art knowledge on machine learning, network analysis, and conceptualization of innovation and value creation practices.",5
+Dense (Vector),Q02,direct_module,easy,How many credit points is the Advanced Machine Learning module worth?,6 credit points (CP).,1,0.667,1.0,2.28,The Advanced Machine Learning module is worth 6 credit points.,5
+Dense (Vector),Q03,direct_module,easy,What are the recommended prerequisites for Advanced Machine Learning?,"Mathematics I-III, Numerical Mathematics / Numerics, and programming skills preferably in Python.",0,0.0,0.0,7.55,"Based on the provided context, the recommended prerequisites for Advanced Machine Learning at TUHH are:
+
+- A course on machine learning and neural networks, such as ""Internet Things and Wireless Networks"" at CAU, and
+- C programming skills, as we will be using embedded IoT devices.
+
+I don't have enough information about the specific course ""Advanced Machine Learning"" at TUHH, but it is likely that it builds upon the knowledge gained in the Master's Comp Sci program, which covers topics such as machine learning and neural networks.",5
+Dense (Vector),Q04,direct_module,easy,Who is responsible for the Advanced Machine Learning module at TUHH?,Dr. Jens-Peter Zemke.,0,0.0,0.0,3.33,"The Advanced Machine Learning module at TUHH is taught by Professor NN, who is an expert in the field of Responsible Business: Sustainability, Compliance and Control Issues.",5
+Dense (Vector),Q05,direct_module,easy,What type of examination does the Advanced Machine Learning module use?,"Written exam, 90 minutes.",1,1.0,0.2,2.26,The Advanced Machine Learning module at TUHH uses a written examination.,5
+Dense (Vector),Q06,direct_module,medium,What topics are taught in the Advanced Machine Learning lecture?,Basics of neural nets; feedforward networks and backpropagation; CNNs; RNNs; adversarial attacks; residual networks; neural ODEs; autoencoders; GANs; attention and transformers.,1,0.25,1.0,7.48,"Based on the provided context, the Advanced Machine Learning lecture covers topics in limited time, including:
+
+1. Familiarizing in a specific topic in limited time
+2. Realizing a literature survey on the specific topic and citing in a correct way
+3. Elaborating a presentation and giving a lecture to a selected audience
+4. Summing up the presentation in 10-15 lines
+5. Answering questions in the final discussion
+
+These topics are all part of the Masters Comp Sci program, specifically the Advanced Machine Learning module.",5
+Dense (Vector),Q07,direct_module,easy,In which semester is the Advanced Machine Learning course offered?,Winter semester (WiSe).,0,0.0,0.0,2.26,I don't have enough information about the Advanced Machine Learning course in the provided documents.,5
+Dense (Vector),Q08,curriculum_structure,medium,Is Advanced Machine Learning compulsory for Data Science students?,Yes — it is listed as Core Qualification: Compulsory in the Data Science curriculum.,1,0.333,1.0,4.33,"I don't have enough information about the specific requirements for Advanced Machine Learning in the Master's Civil Eng program. However, based on the provided context, it appears that Advanced Machine Learning is not a mandatory course in the Master's Civil Eng program.",5
+Dense (Vector),Q09,curriculum_structure,medium,Which TUHH programs include Advanced Machine Learning in their curriculum?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, and Theoretical Mechanical Engineering.",1,0.333,0.2,5.7,"Based on the provided context, the following TUHH programs include Advanced Machine Learning in their curriculum:
+
+- Master in Data Science (MSEMS)
+- Master in Materials Science and Engineering (MSEMS)
+- Master in Computational Methods and Machine Learning in Engineering (MSEMS)
+- Master in Mechanical Engineering (MEM)
+- Master in Data Science (MSEMS)",5
+Dense (Vector),Q10,curriculum_structure,medium,What is the workload for the Advanced Machine Learning module?,Total workload 124 hours: Independent Study Time 62 h + Study Time in Lecture 28 h for the course component.,1,0.25,1.0,2.7,"The Advanced Machine Learning module is a 12-week module, which is a significant portion of the workload for the Masters Env Eng program.",5
+Dense (Vector),Q11,curriculum_structure,medium,How many hours per week is the Advanced Machine Learning lecture?,2 hours/week lecture + 2 hours/week recitation (small group) = 4 hrs/wk total.,1,0.333,1.0,2.81,"Based on the provided context, the Advanced Machine Learning lecture is typically assigned 96 hours of independent study time and 84 hours of study time in lecture.",5
+Dense (Vector),Q12,curriculum_structure,hard,What is the difference between Core Qualification and Elective modules in the Data Science program?,Core Qualification modules are compulsory for all program students. Elective modules are optional and allow specialisation in a sub-field.,1,1.0,1.0,9.72,"In the Data Science program at TUHH, Core Qualification modules are compulsory and mandatory for all students, covering essential knowledge and skills in the field. These modules are typically chosen from the module catalogue and are designed to provide a broad foundation in data science.
+
+On the other hand, Elective Compulsory modules are optional and can be chosen by students to enhance their knowledge and skills in specific areas of data science. These modules are also mandatory for all students, but they are not required to be taken.
+
+In summary, the main difference between Core Qualification and Elective modules in the Data Science program is that Core Qualification modules are compulsory and mandatory, while Elective Compulsory modules are optional and can be chosen by students to supplement their learning.",5
+Dense (Vector),Q13,curriculum_structure,hard,How many total credit points are needed to finish the Data Science master?,120 credit points — standard for a 4-semester German M.Sc.,1,1.0,1.0,2.38,"Based on the provided context, the Data Science master program at TUHH requires a total of 120 credit points.",5
+Dense (Vector),Q14,recommendation,medium,I love mathematics and programming. What should I study at TUHH?,Data Science or Computer Science would suit you well — both require strong mathematical foundations and programming (Python).,1,0.667,1.0,7.07,"Based on your interests in mathematics and programming, I would recommend studying the Master's program in Data Science (Masters_Data_Sci) at TUHH. This program aligns with your interests as it covers principles of math (algebra, analysis/calculus), programming (e.g., in Java or C++), and solid R or Matlab skills. Additionally, you will have the opportunity to apply your knowledge in clinical contexts and illustrate systems and their components. This program is well-suited for students who want to combine their passion for mathematics and programming with practical applications.",5
+Dense (Vector),Q15,recommendation,easy,I am interested in deep learning and neural networks. Which module covers that?,"Advanced Machine Learning (M1552) directly covers deep learning: CNNs, RNNs, GANs, Autoencoders, and Transformers.",0,0.0,0.0,6.42,"Based on the provided context, the Master's Comp Sci program covers deep learning and neural networks, including the structure of modern deep-learning networks for computer vision and natural language processing, as well as how to build and train networks based on the constraints of the target system.
+
+I recommend the Master's Comp Sci program because it provides a comprehensive introduction to deep learning algorithms, including the necessary skills to design, implement, and understand your own deep learning models, using Python and the deep learning framework.",5
+Dense (Vector),Q16,recommendation,medium,I want to understand Generative Adversarial Networks. What module should I take?,Advanced Machine Learning (M1552) covers GANs and Autoencoders as part of its lecture content.,0,0.0,0.0,6.08,"Based on the provided context, I recommend taking the ""Machine Learning in Wireless Communications"" (L3005) module, which is offered by Prof. Gerhard Bauch. This module is designed for a diverse audience, including students with different backgrounds, and is suitable for those with a basic understanding of machine learning methods. The module covers the fundamentals of machine learning and its applications in wireless communications, which aligns with your interest in Generative Adversarial Networks (GANs).",5
+Dense (Vector),Q17,recommendation,hard,I want to work in AI research after my master. What should I focus on at TUHH?,"Focus on the Data Science core qualification modules especially Advanced Machine Learning, supplement with research-track electives, and invest heavily in your master thesis.",1,0.667,1.0,9.29,"Based on the provided context, I would recommend the Master's program in Data Science (Masters_Data_Sci) at the Technical University of Hamburg (TUHH). This program is well-suited for an AI research career, as it covers topics such as analyzing problems scientifically, solving complex tasks, and using innovative methods.
+
+The program's focus on data science, machine learning, and AI aligns with the interests of AI research. Additionally, the program's emphasis on interdisciplinary teams and collaboration with other participants can help you develop the skills and competencies needed for a career in AI research.
+
+Furthermore, the program's career prospects and personal competence areas, such as social competence, autonomy, and mathematics, can help you prepare for a successful career in AI research.",5
+Dense (Vector),Q18,recommendation,medium,I enjoy working in teams and group projects. Are there modules with teamwork?,Yes — Advanced Machine Learning explicitly develops social competence: joint solutions in small teams and group development of ideas.,1,0.667,1.0,11.84,"You're interested in modules that focus on teamwork and group projects. Based on the provided context, I recommend the following modules:
+
+1. **Master in Data Science**: This module covers comprehensive planning and evaluation of IoT projects, incorporating scientific methodologies for real-world applications. It emphasizes teamwork and group work, where students learn to define and split tasks within the team.
+2. **Master in Mechatronics**: This module also covers comprehensive planning and evaluation of IoT projects, with a focus on teamwork and group work. Students learn to work in small mixed groups, define and split tasks, and present results independently or in groups.
+3. **Master in Civil Eng**: This module focuses on developing teamwork and problem-solving skills through Research-Based Teaching approaches. Students are involved in writing individual reports and presentations, which contributes to their ability and willingness to work independently and responsibly.
+
+All three modules offer opportunities for students to work in teams and develop their teamwork skills, making them suitable for students who enjoy working in groups.",5
+Dense (Vector),Q19,recommendation,hard,I come from a physics background. Can I apply for the Data Science program?,"Physics graduates typically have the required mathematical background (analysis, linear algebra, numerics) aligned with recommended prerequisites.",1,0.5,1.0,11.18,"Based on the provided context, it appears that the Data Science program at TUHH is a suitable fit for your physics background. The program covers topics such as machine learning, which is a key area of research in physics, particularly in the realm of condensed matter physics and quantum mechanics.
+
+The Data Science program at TUHH is designed to build on the bachelor's degree in data science and is open to bachelor's degree graduates in computer science or mathematics with relevant majors in data science, machine learning, or artificial intelligence. Given your physics background, you may find the program's emphasis on machine learning and computational methods to be particularly relevant.
+
+Additionally, the program's two-year duration and four-semester structure align with your typical undergraduate program timeline, allowing you to transition smoothly into the program.",5
+Dense (Vector),Q20,recommendation,medium,Which modules involve Python programming at TUHH?,Advanced Machine Learning explicitly recommends Python. Most Data Science core modules also use Python for implementations.,1,0.5,1.0,8.28,"Based on the provided context, the following modules at TUHH involve Python programming:
+
+- Masters Mechatronics (M.Sc. ""Software Engineering (Software Development and Life Cycles , Software Modelling in UML"")
+- Masters Civil Eng (M.Sc. ""Software Engineering (Software Development and Life Cycles , Software Modelling in UML"")
+- Masters Data Sci (M.Sc. ""Data Science"")
+- Masters Comp Sci (M.Sc. ""Computer Science"")
+- Masters ICS (M.Sc. ""Information and Communication Systems"")
+
+These modules cover various aspects of programming, including software development, data science, computer science, and information and communication systems, which all involve Python programming.",5
+Dense (Vector),Q21,logistics,easy,Is the Advanced Machine Learning course taught in English or German?,English (language code EN).,1,1.0,1.0,2.3,The Advanced Machine Learning course is taught in English.,5
+Dense (Vector),Q22,logistics,easy,How long is the Master of Science Data Science program at TUHH?,4 semesters (2 years).,1,0.5,1.0,2.73,"The Master of Science Data Science program at TUHH is a 7-semester program, which typically takes around 2 years to complete.",5
+Dense (Vector),Q23,logistics,medium,What are the admission requirements for the Data Science master at TUHH?,A relevant bachelor's degree with sufficient mathematical background. Individual module admission requirements are listed as 'None'.,0,0.0,0.0,7.11,"Based on the provided context, I don't have enough information about the Data Science master program at TUHH. However, I can provide some general information.
+
+The Data Science master program at TUHH is a graduate program that covers various aspects of data science, including machine learning, data mining, and data visualization. The program is designed to equip students with the necessary skills to apply knowledge and skills in practice to identify and solve specific data science-related tasks.
+
+If you're interested in pursuing the Data Science master program at TUHH, I would recommend checking the program's official website or contacting the academic advisor for more information on the admission requirements.",5
+Dense (Vector),Q24,logistics,easy,What literature is recommended for the Advanced Machine Learning module?,Script by the lecturer; online resources including neuralnetworksanddeeplearning.com and deeplearningbook.org.,1,0.667,1.0,10.23,"Based on the provided context, I recommend the following literature for the Advanced Machine Learning module:
+
+- ""Machine Learning: A Probabilistic Perspective"" by Andrew Ng and Michael I. Jordan (Source: Masters_Comp_Sci)
+- ""Deep Learning"" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (Source: Masters_Comp_Sci)
+- ""Pattern Recognition and Machine Learning"" by Christopher M. Bishop (Source: Masters_Comp_Sci)
+- ""Deep Learning Specialization"" by Andrew Ng (Source: Masters_Comp_Sci)
+- ""Machine Learning for Data Science"" by Sebastian Raschka (Source: Masters_Comp_Sci)
+
+These resources provide a comprehensive introduction to machine learning concepts, including supervised and unsupervised learning, neural networks, and deep learning. They are suitable for advanced machine learning students and can be used to develop the contents of the Advanced Machine Learning module.",5
+Dense (Vector),Q25,comparative,hard,What is the difference between Data Science and Computer Science programs at TUHH?,Both share modules like Advanced Machine Learning. Data Science focuses more on statistical methods and data pipelines; Computer Science covers a broader set of software and systems topics.,1,1.0,0.5,16.85,"Based on the provided context, the main difference between Data Science and Computer Science programs at TUHH lies in their focus and core subjects.
+
+The Master's program in Data Science (Masters_Chem_Bio) covers the core subjects of corresponding Bachelor's programs in process engineering, bioprocess engineering, energy and environmental engineering, and general engineering science. This suggests that Data Science programs at TUHH are more focused on the application of data science techniques to real-world problems in these fields.
+
+In contrast, the Master's program in Computer Science (Masters_Data_Sci) covers a broader range of subjects, including mathematics, computer science, and engineering science, with a focus on computer science and mathematics. This suggests that Computer Science programs at TUHH are more focused on the theoretical foundations of computer science and mathematics.
+
+Given your interest in Data Science, I would recommend the Master's program in Data Science (Masters_Chem_Bio) at TUHH, as it aligns with your interests and provides a strong foundation in the application of data science techniques to real-world problems in engineering and environmental fields.",5
+Dense (Vector),Q26,comparative,medium,Which programs at TUHH share the Advanced Machine Learning module?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, Theoretical Mechanical Engineering.",0,0.0,0.0,6.58,"The Advanced Machine Learning module is offered in the following programs at TUHH:
+
+- Master in Data Science
+- Master in Civil Engineering
+- Master in MEMS (Micro and Nanotechnology Engineering)
+- Master in Computer Science
+
+These programs share the Advanced Machine Learning module, which covers topics such as machine learning algorithms, deep learning, and natural language processing.",5
+Dense (Vector),Q27,comparative,hard,Which TUHH programs involve machine learning?,"Data Science, Computer Science, Computational Methods and Machine Learning in Engineering, Mechatronics, and Technomathematics all include machine learning modules.",1,0.667,1.0,7.28,"Based on the provided context, the TUHH programs that involve machine learning are:
+
+1. Master in Data Science (Masters_Mechatronics)
+2. Master Data Science (Masters_Data_Sci)
+3. Master MSEMS (Masters_MSEMS)
+
+These programs cover machine learning concepts and techniques, and are designed to bridge the gap between abstract algorithms and real-world physical phenomena.",5
+Dense (Vector),Q28,comparative,hard,What skills will I have after completing the Data Science master?,Professional knowledge: classify state-of-the-art neural networks. Practical skills: implement and apply neural networks to new domains. Social: collaborate in small teams. Autonomy: self-direct work and assess correctness independently.,1,0.5,1.0,9.48,"Based on the provided context, after completing the Data Science master program at TUHH, you will develop skills in social competence - team collaboration and communication, autonomy - leadership and decision making, and project management skills. You will also have the opportunity to reflect on the non-technical aspects of engineering tasks and expand on the knowledge gained to succeed with a doctoral thesis.
+
+I don't have enough information about the specific skills you will acquire in the Data Science master program, but it is likely that you will develop skills in data analysis, machine learning, and data visualization, as well as programming languages such as Python and R.",5
+Dense (Vector),Q29,comparative,hard,I want to combine engineering with advanced mathematics. What do you recommend?,Technomathematics or Interdisciplinary Mathematics combine rigorous mathematics with engineering applications. Computational Methods and Machine Learning in Engineering is also very relevant.,1,0.667,1.0,13.0,"Based on your interest in combining engineering with advanced mathematics, I would recommend the Master's program in Data Science (Masters_ICS) at TUHH. This program aligns with your interests as it covers knowledge engineering or mathematics at the Master's level, which is relevant to both engineering and advanced mathematics.
+
+The program's educational objectives, which include explication of a specific topic, description of complex issues, presentation of different views, and evaluation in a critical way, are also relevant to both engineering and advanced mathematics. Additionally, the program's focus on knowledge engineering or mathematics at the Master's level suggests that you will have the opportunity to develop skills in a specific area of engineering and mathematics.
+
+Furthermore, the Data Science program at TUHH is a well-regarded program that offers a strong foundation in both engineering and advanced mathematics, with a focus on applying mathematical techniques to real-world problems in engineering.",5
+Dense (Vector),Q30,comparative,hard,Are there modules compulsory across multiple TUHH master programs?,Yes. Advanced Machine Learning (M1552) is compulsory in both Data Science (Core Qualification) and in Computational Methods and Machine Learning in Engineering.,1,0.667,1.0,9.25,"Based on the provided context, it appears that there are modules that are compulsory across multiple TUHH master programs. Specifically, the following modules are compulsory for all five master programs:
+
+* Structural Analysis of Ships and Offshore Structures
+* Ship Vibration
+* Manoeuvrability and Shallow Water Ship Hydrodynamics
+* Nonlinear Structural Analysis
+
+These modules are listed as ""open modules"" in the context, which suggests that they are not necessarily part of the core qualification for each specialization, but rather are required for all students to complete the master program.",5
+Hybrid + Rerank,Q01,direct_module,easy,What is the module Advanced Machine Learning about?,"Advanced Machine Learning (M1552) covers neural networks, backpropagation, CNNs, RNNs, GANs, Autoencoders and Transformers. It is worth 6 CP, examined by a 90-minute written exam, and taught in English in the winter semester.",1,0.25,1.0,4.16,"The module Advanced Machine Learning is part of the Masters GTIME program at the Technical University of Hamburg. It covers the application of machine learning methods to various fields, including wireless communications.",5
+Hybrid + Rerank,Q02,direct_module,easy,How many credit points is the Advanced Machine Learning module worth?,6 credit points (CP).,1,0.667,1.0,4.47,The Advanced Machine Learning module is worth 6 credit points.,5
+Hybrid + Rerank,Q03,direct_module,easy,What are the recommended prerequisites for Advanced Machine Learning?,"Mathematics I-III, Numerical Mathematics / Numerics, and programming skills preferably in Python.",1,0.333,1.0,6.73,"Based on the provided context, the recommended prerequisites for Advanced Machine Learning are:
+
+- Python programming, including libraries for neural networks, deep learning, and data visualization (e.g. WandB)
+- Access to a decent PC or laptop with at least mediocre performance
+
+These prerequisites are mentioned in the Masters ICS module manual, specifically in the Advanced Machine Learning section.",5
+Hybrid + Rerank,Q04,direct_module,easy,Who is responsible for the Advanced Machine Learning module at TUHH?,Dr. Jens-Peter Zemke.,0,0.0,0.0,4.71,"Based on the provided context, the Advanced Machine Learning module at TUHH is taught by Professor NN, who is listed as the lecturer for Course L3028: Responsible Business: Sustainability, Compliance and Control Issues (AAU) in the Masters GTIME module manual.",5
+Hybrid + Rerank,Q05,direct_module,easy,What type of examination does the Advanced Machine Learning module use?,"Written exam, 90 minutes.",1,1.0,0.5,3.03,The Advanced Machine Learning module at TUHH uses a written examination.,5
+Hybrid + Rerank,Q06,direct_module,medium,What topics are taught in the Advanced Machine Learning lecture?,Basics of neural nets; feedforward networks and backpropagation; CNNs; RNNs; adversarial attacks; residual networks; neural ODEs; autoencoders; GANs; attention and transformers.,0,0.0,0.0,8.9,"Based on the provided context, the Advanced Machine Learning lecture covers topics such as:
+
+- Modelling digital Hardware, Software, and Cyber Physical Systems
+- Data structures, decision procedures and proof engines
+- Binary Decision Diagrams
+- And-Inverter-Graphs
+- Boolean Satisfiability
+- Satisfiability Modulo Theories
+- Specification Languages
+- CTL
+- LTL
+- System Verilog Assertions
+- Algorithms for Reachability Analysis
+- Symbolic CTL Checking
+- Bounded LTL-Model Checking
+- Optimizations, e.g., induction, abstraction
+
+These topics are not explicitly mentioned in the provided context, but they can be inferred from the provided program descriptions.",5
+Hybrid + Rerank,Q07,direct_module,easy,In which semester is the Advanced Machine Learning course offered?,Winter semester (WiSe).,0,0.0,0.0,3.7,"Based on the provided context, the Advanced Machine Learning course is offered in semester 4, which is the 4th semester (year 2) of the Master in Data Science program.",5
+Hybrid + Rerank,Q08,curriculum_structure,medium,Is Advanced Machine Learning compulsory for Data Science students?,Yes — it is listed as Core Qualification: Compulsory in the Data Science curriculum.,1,0.333,0.333,10.75,"I don't have enough information about the specific requirements for the Master's Data Science program at TUHH. However, based on the provided context, it appears that Advanced Machine Learning is not a required component of the Master's Data Science program.
+
+According to the provided information, the Master's Data Science program requires at least 60 credit points, which is achieved by completing the following modules:
+
+* Module M-002: Master Thesis (which is not explicitly mentioned as a machine learning module)
+* Courses: Title Typ Hrs/wk CP, Professoren der TUHH (independent of the module)
+* Admission Requirements: At least 60 credit points have to be achieved in the study program.
+
+Given that Advanced Machine Learning is not explicitly mentioned as a required module, it is likely that it is not a compulsory component of the Master's Data Science program.",5
+Hybrid + Rerank,Q09,curriculum_structure,medium,Which TUHH programs include Advanced Machine Learning in their curriculum?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, and Theoretical Mechanical Engineering.",1,0.667,1.0,7.59,"Based on the provided context, the TUHH programs that include Advanced Machine Learning in their curriculum are:
+
+1. Master in Data Science (M.Sc. Data Sci | Source: Masters_Data_Sci)
+2. Master in Computer Science (M.Sc. Comp Sci | Source: Masters_Comp_Sci)
+
+These programs are specifically mentioned to include Advanced Machine Learning as a core qualification or a recommended course.",5
+Hybrid + Rerank,Q10,curriculum_structure,medium,What is the workload for the Advanced Machine Learning module?,Total workload 124 hours: Independent Study Time 62 h + Study Time in Lecture 28 h for the course component.,1,1.0,1.0,6.45,"The Advanced Machine Learning module is a 30 CP, 4th semester module. According to the provided documents, the workload for this module is 124 hours of independent study time and 56 hours of study time in lecture.",5
+Hybrid + Rerank,Q11,curriculum_structure,medium,How many hours per week is the Advanced Machine Learning lecture?,2 hours/week lecture + 2 hours/week recitation (small group) = 4 hrs/wk total.,1,1.0,0.5,6.41,"Based on the provided context, the Advanced Machine Learning lecture is typically held once a week, with a workload of 16 hours per week, consisting of 1 hour of lecture time and 16 hours of independent study time.",5
+Hybrid + Rerank,Q12,curriculum_structure,hard,What is the difference between Core Qualification and Elective modules in the Data Science program?,Core Qualification modules are compulsory for all program students. Elective modules are optional and allow specialisation in a sub-field.,1,1.0,1.0,23.15,"In the Data Science program at TUHH, the Core Qualification and Elective modules serve different purposes. Core Qualification modules are compulsory and provide a broad foundation in the field, while Elective modules are optional and allow students to choose topics that interest them.
+
+Core Qualification modules, such as M1921: Technical Complementary Course for DSMS, are designed to provide a comprehensive understanding of the Data Science field. They are typically taught by experts in the field and cover a range of topics, including machine learning, data visualization, and statistical analysis.
+
+Elective modules, on the other hand, are chosen by students and can be tailored to their individual interests. These modules are usually taught by experts in specific areas of Data Science and provide in-depth knowledge and skills in those areas. Elective modules can be taken in addition to the Core Qualification modules or as a standalone course.
+
+In the Data Science program, the recommended previous module for M1921 is M1011: Data Science, which covers the basics of Data Science. This suggests that students should have a solid foundation in Data Science before taking M1921.
+
+It's worth noting that the Data Science program at TUHH is designed to provide students with a broad understanding of Data Science, and the Core Qualification and Elective modules are designed to be complementary rather than competing. By taking Core Qualification modules, students can gain a strong foundation in the field, while Elective modules can provide specialized knowledge and skills.",5
+Hybrid + Rerank,Q13,curriculum_structure,hard,How many total credit points are needed to finish the Data Science master?,120 credit points — standard for a 4-semester German M.Sc.,1,1.0,1.0,4.83,"To finish the Data Science master, you need to achieve at least 60 credit points in the study program.",5
+Hybrid + Rerank,Q14,recommendation,medium,I love mathematics and programming. What should I study at TUHH?,Data Science or Computer Science would suit you well — both require strong mathematical foundations and programming (Python).,1,0.667,1.0,11.18,"Based on your interests in mathematics and programming, I would recommend the Master's program in Data Science (Masters Data Sci) at TUHH. This program covers the principles of math (algebra, analysis/calculus), programming (e.g., in Java or C++), and solid R or Matlab skills, which aligns with your interests. Additionally, the program's educational objectives focus on professional competence, knowledge, and skills in explaining complex issues, presenting different views, and evaluating in a critical way, which are also relevant to your interests.
+
+This program is a great fit for you because it allows you to combine your passion for mathematics and programming with practical skills in data analysis and science, which is a highly sought-after skill in the industry.",5
+Hybrid + Rerank,Q15,recommendation,easy,I am interested in deep learning and neural networks. Which module covers that?,"Advanced Machine Learning (M1552) directly covers deep learning: CNNs, RNNs, GANs, Autoencoders, and Transformers.",1,0.667,1.0,3.87,"Based on the provided context, the module that covers deep learning and neural networks is Masters Data Sci | Source: Masters_Data_Sci.",5
+Hybrid + Rerank,Q16,recommendation,medium,I want to understand Generative Adversarial Networks. What module should I take?,Advanced Machine Learning (M1552) covers GANs and Autoencoders as part of its lecture content.,0,0.0,0.0,12.85,"Based on the provided context, I would recommend taking the ""Masters Data Sci"" program, specifically the ""Machine Learning in Wireless Communications"" module (L3005). This module is designed for a diverse audience, including students with different backgrounds, and is suitable for those with a basic understanding of machine learning methods, such as those with a background in mathematics or computer science.
+
+This module is a great starting point for understanding Generative Adversarial Networks (GANs), as it provides a comprehensive introduction to the theoretical basics of GANs, including conceptual and mathematical aspects. The module is also designed to be accessible to students with varying levels of prior knowledge in machine learning, making it an excellent choice for those interested in learning about GANs.",5
+Hybrid + Rerank,Q17,recommendation,hard,I want to work in AI research after my master. What should I focus on at TUHH?,"Focus on the Data Science core qualification modules especially Advanced Machine Learning, supplement with research-track electives, and invest heavily in your master thesis.",1,0.667,1.0,13.72,"Based on the provided context, I would recommend the Master's program in Data Science at TUHH. This program is specifically designed to prepare students for a career in research and development in an academic or industrial environment, which aligns with your interest in AI research.
+
+The program covers methods on the basis of new findings, which suggests that it will provide you with a strong foundation in data science and AI. Additionally, the program's focus on interdisciplinary research and development, as well as its emphasis on complex problems, uncertainty, and working under given boundary conditions, will help you develop the skills and knowledge required for a career in AI research.
+
+Furthermore, the program's structure, with a study project on Modern Problems of Materials Science and the Master's Thesis, will allow you to apply your knowledge and skills in a research context, which is essential for AI research.",5
+Hybrid + Rerank,Q18,recommendation,medium,I enjoy working in teams and group projects. Are there modules with teamwork?,Yes — Advanced Machine Learning explicitly develops social competence: joint solutions in small teams and group development of ideas.,1,0.667,1.0,8.14,"You're interested in modules that focus on teamwork and group projects. Based on the provided context, I recommend the following modules:
+
+* Master in Data Science (Masters_ICS)
+* Masters Mechatronics (Masters_Mechatronics)
+* Masters Data Sci (Masters_Data_Sci)
+
+These modules emphasize teamwork and group projects, allowing you to work in small mixed groups and present your results in a suitable way.",5
+Hybrid + Rerank,Q19,recommendation,hard,I come from a physics background. Can I apply for the Data Science program?,"Physics graduates typically have the required mathematical background (analysis, linear algebra, numerics) aligned with recommended prerequisites.",1,0.5,1.0,7.92,"As a physics background, you may find the Data Science program at TUHH to be a good fit. The program covers the mathematical and computer science foundations of data science, which aligns with your physics background. You will learn to practically apply theoretical concepts in various application areas, which is a key aspect of data science. Additionally, the program's focus on machine learning, artificial intelligence, and data analysis will likely appeal to your physics interests.",5
+Hybrid + Rerank,Q20,recommendation,medium,Which modules involve Python programming at TUHH?,Advanced Machine Learning explicitly recommends Python. Most Data Science core modules also use Python for implementations.,1,0.5,0.5,15.08,"Based on the provided context, the following modules at TUHH involve Python programming:
+
+1. M.Sc. ""Computer Science"" (Module M1810: Autonomous Cyber-Physical Systems) - This module requires Python programming, as it covers topics such as data structures, algorithms, and software engineering.
+2. M.Sc. ""Data Science"" (Module M1810: Autonomous Cyber-Physical Systems) - This module also requires Python programming, as it covers data structures, algorithms, and software engineering.
+3. M.Sc. ""Mechatronics"" (Module M1810: Autonomous Cyber-Physical Systems) - This module requires Python programming, as it covers topics such as data structures, algorithms, and software engineering.
+
+These modules are all part of the Master's program in MEMS (Masters MEMS) or ICS (Masters ICS) at TUHH, and involve Python programming as a key skill.",5
+Hybrid + Rerank,Q21,logistics,easy,Is the Advanced Machine Learning course taught in English or German?,English (language code EN).,1,1.0,1.0,3.59,The Advanced Machine Learning course is taught in English.,5
+Hybrid + Rerank,Q22,logistics,easy,How long is the Master of Science Data Science program at TUHH?,4 semesters (2 years).,1,1.0,1.0,4.17,The Master of Science Data Science program at TUHH is 24 months (2 years) full-time.,5
+Hybrid + Rerank,Q23,logistics,medium,What are the admission requirements for the Data Science master at TUHH?,A relevant bachelor's degree with sufficient mathematical background. Individual module admission requirements are listed as 'None'.,0,0.0,0.0,19.39,"Based on the provided context, the admission requirements for the Data Science master at TUHH include:
+
+- A bachelor's degree in a relevant field (not specified in the provided documents)
+- A minimum of 30 CP in mathematics (not specified in the provided documents)
+- A minimum of 6 CP in a technical complementary course (not specified in the provided documents)
+- A minimum of 6 CP in computer science (not specified in the provided documents)
+- A minimum of 6 CP in applications (not specified in the provided documents)
+- A minimum of 30 CP in the master's thesis (4th semester)
+- A minimum of 90 min for the written exam
+- A minimum of 4 hours for independent study time
+- A minimum of 6 credit points in the Data Science specialisation I (Data Science & Mathematics)
+- A minimum of 6 credit points in the Data Science specialisation II (Computer Science)
+- A minimum of 6 credit points in the Data Science specialisation III (Applications)
+
+It is recommended that students choose a program that aligns with their interests, such as the Master in Data Science, which covers Data Science & Mathematics, Computer Science, and Applications. This specialisation is designed to prepare students for a professional career in research and development.",5
+Hybrid + Rerank,Q24,logistics,easy,What literature is recommended for the Advanced Machine Learning module?,Script by the lecturer; online resources including neuralnetworksanddeeplearning.com and deeplearningbook.org.,1,0.667,1.0,11.83,"Based on the provided context, I recommend the following literature for the Advanced Machine Learning module:
+
+* ""Machine Learning: A Probabilistic Perspective"" by Andrew Ng and Michael I. Jordan (Source: Masters Data Sci)
+* ""Deep Learning"" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (Source: Masters Mechatronics)
+* ""Pattern Recognition and Machine Learning"" by Christopher M. Bishop (Source: Masters Comp Sci)
+
+These texts cover advanced topics in machine learning, including supervised and unsupervised learning, neural networks, and deep learning. They provide a comprehensive understanding of the subject and are suitable for independent study and presentation of knowledge.",5
+Hybrid + Rerank,Q25,comparative,hard,What is the difference between Data Science and Computer Science programs at TUHH?,Both share modules like Advanced Machine Learning. Data Science focuses more on statistical methods and data pipelines; Computer Science covers a broader set of software and systems topics.,1,1.0,1.0,14.87,"Based on the provided context, the main difference between Data Science and Computer Science programs at TUHH lies in their specializations and electives.
+
+Data Science programs at TUHH, such as the Master in Data Science, cover specializations in Data Science, Mathematics/Computer Science, and Engineering Science, with electives in areas like Machine Learning, Computational Methods, and Applications. These programs aim to provide a comprehensive understanding of data science concepts and their practical applications.
+
+In contrast, Computer Science programs at TUHH, such as the Master in Computer Science, focus on the theoretical foundations of computer science, with electives in areas like Mathematics and Engineering Science. These programs tend to emphasize the mathematical and theoretical aspects of computer science, with less emphasis on practical applications.
+
+While both programs are offered at TUHH, the Master in Data Science is more focused on the practical application of data science concepts, whereas the Master in Computer Science is more theoretical in nature.",5
+Hybrid + Rerank,Q26,comparative,medium,Which programs at TUHH share the Advanced Machine Learning module?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, Theoretical Mechanical Engineering.",1,0.667,1.0,12.51,"Based on the provided context, the programs at TUHH that share the Advanced Machine Learning module are:
+
+1. Master in Data Science (Masters_Data_Sci)
+2. Master in MEMS (Masters_MEMS)
+3. Master in Data Science (Masters_Data_Sci) - this is a repeat of the Master in Data Science program, which suggests that it may be a repeat of the same module.
+
+I don't have enough information about the Advanced Machine Learning module to recommend a specific program. However, I can suggest that the Master in Data Science program may be a good fit for students interested in machine learning, as it covers a range of topics related to machine learning, including supervised and unsupervised learning, neural networks, and deep learning.",5
+Hybrid + Rerank,Q27,comparative,hard,Which TUHH programs involve machine learning?,"Data Science, Computer Science, Computational Methods and Machine Learning in Engineering, Mechatronics, and Technomathematics all include machine learning modules.",1,0.667,1.0,7.93,"Based on the provided context, the TUHH programs that involve machine learning are:
+
+1. Master in Data Science (Masters Data Sci)
+2. Master in Mechatronics (Masters Mechatronics)
+
+These two programs are specifically mentioned in the context as covering machine learning topics, including natural language processing (NLP) and graphs, as well as learning tools and methods, and applying machine learning techniques to physical systems.",5
+Hybrid + Rerank,Q28,comparative,hard,What skills will I have after completing the Data Science master?,Professional knowledge: classify state-of-the-art neural networks. Practical skills: implement and apply neural networks to new domains. Social: collaborate in small teams. Autonomy: self-direct work and assess correctness independently.,1,0.75,0.5,6.13,"Based on the provided context, after completing the Data Science master program at the Technical University of Hamburg (TUHH), you will have developed skills in applying theoretical knowledge in real-life business cases, gaining insight into working in a real company, and developing teamwork and communication skills.",5
+Hybrid + Rerank,Q29,comparative,hard,I want to combine engineering with advanced mathematics. What do you recommend?,Technomathematics or Interdisciplinary Mathematics combine rigorous mathematics with engineering applications. Computational Methods and Machine Learning in Engineering is also very relevant.,1,0.667,1.0,15.69,"Based on the provided context, I recommend the Master's program in Mechatronics at the Technical University of Hamburg (TUHH). This program is designed to combine engineering and advanced mathematics, offering a comprehensive education in both fields.
+
+The Master's program in Mechatronics covers a wide range of topics, including mechanical engineering, mechatronics, and production engineering, which aligns with your interests. You will have the opportunity to learn about advanced mathematical concepts, such as series expansions, internal and vector calculus, and partial/ordinary differential equations, which will provide a solid foundation for your future studies.
+
+Additionally, the program emphasizes the introduction of relevant aeronautical content, which will help you develop a deeper understanding of the application of mathematical concepts in the aerospace industry.
+
+By choosing the Master's program in Mechatronics, you will be able to combine your passion for engineering and mathematics, and develop a strong foundation for a career in a field that combines these two disciplines.",5
+Hybrid + Rerank,Q30,comparative,hard,Are there modules compulsory across multiple TUHH master programs?,Yes. Advanced Machine Learning (M1552) is compulsory in both Data Science (Core Qualification) and in Computational Methods and Machine Learning in Engineering.,1,1.0,1.0,6.39,"Based on the provided context, it appears that modules are not compulsory across multiple TUHH master programs. Each program has its own set of mandatory specializations, and students can choose any module from the master courses of the TUHH as a 6 CP elective.",5
+HyDE,Q01,direct_module,easy,What is the module Advanced Machine Learning about?,"Advanced Machine Learning (M1552) covers neural networks, backpropagation, CNNs, RNNs, GANs, Autoencoders and Transformers. It is worth 6 CP, examined by a 90-minute written exam, and taught in English in the winter semester.",0,0.0,0.0,13.31,"The module Advanced Machine Learning is part of the Masters Data Sci program at TUHH, and it is designed to bridge the gap between abstract machine learning algorithms and real-world physical phenomena.",5
+HyDE,Q02,direct_module,easy,How many credit points is the Advanced Machine Learning module worth?,6 credit points (CP).,1,0.667,1.0,9.01,The Advanced Machine Learning module is worth 6 credit points.,5
+HyDE,Q03,direct_module,easy,What are the recommended prerequisites for Advanced Machine Learning?,"Mathematics I-III, Numerical Mathematics / Numerics, and programming skills preferably in Python.",0,0.0,0.0,22.49,"Based on the provided context, I recommend the Master's in Data Science (MSc Data Sci) program at TUHH. This program is designed to bridge the gap between abstract algorithms and real-world physical phenomena, which aligns with the course ""Machine Learning in Wireless Communications"" (L3005) Lecture 1.
+
+The MSc Data Sci program is a comprehensive program that covers various aspects of data science, including machine learning, and is suitable for students with different backgrounds, including those with a background in electrical engineering. The program's emphasis on bridging the gap between abstract algorithms and real-world physical phenomena makes it an excellent fit for students interested in applying machine learning to physical systems.
+
+Additionally, the MSc Data Sci program is offered fully in English, which is a plus for international students.",5
+HyDE,Q04,direct_module,easy,Who is responsible for the Advanced Machine Learning module at TUHH?,Dr. Jens-Peter Zemke.,0,0.0,0.0,17.0,"The Advanced Machine Learning module at TUHH is likely taught by a faculty member with expertise in machine learning and data science. Based on the provided context, I would recommend the Master in Data Science program as a suitable match for this student's interests.
+
+The Master in Data Science program at TUHH covers topics such as machine learning, data science, and data engineering, which aligns with the student's interests in advanced machine learning. Additionally, the program's focus on data science and machine learning suggests that the faculty member teaching this module would have a strong background in these areas.",5
+HyDE,Q05,direct_module,easy,What type of examination does the Advanced Machine Learning module use?,"Written exam, 90 minutes.",1,1.0,1.0,10.31,The Advanced Machine Learning module at TUHH uses a written examination.,5
+HyDE,Q06,direct_module,medium,What topics are taught in the Advanced Machine Learning lecture?,Basics of neural nets; feedforward networks and backpropagation; CNNs; RNNs; adversarial attacks; residual networks; neural ODEs; autoencoders; GANs; attention and transformers.,0,0.0,0.0,19.11,"Based on the provided context, the Advanced Machine Learning lecture covers topics in machine learning that are specifically tailored for complex physical systems. The lecture covers sophisticated topics, demonstrating how cutting-edge machine learning methodologies can be applied not only in general domains but are specifically tailored for physical systems.
+
+The lecture focuses on integrating machine learning techniques with physical systems, covering core areas such as:
+
+1. Evaluating suitable machine learning methods for physical systems problems
+2. Understanding the advantages and disadvantages of each approach
+3. Applying machine learning to real-world physical phenomena
+
+This course is designed for students interested in understanding and applying machine learning in the realm of physical systems, bridging the gap between abstract algorithms and real-world physical phenomena.",5
+HyDE,Q07,direct_module,easy,In which semester is the Advanced Machine Learning course offered?,Winter semester (WiSe).,0,0.0,0.0,9.65,The Advanced Machine Learning course is offered in the semester of Winter Semester (Wintersaison).,5
+HyDE,Q08,curriculum_structure,medium,Is Advanced Machine Learning compulsory for Data Science students?,Yes — it is listed as Core Qualification: Compulsory in the Data Science curriculum.,1,0.667,1.0,15.67,"Based on the provided context, Advanced Machine Learning is not a compulsory module for Data Science students. According to the information, Advanced Machine Learning is an elective module that can be chosen from the mandatory electives of the Data Science specialization, which includes Business and Management, Non-technical Courses for Master, and mandatory electives in the field of ""Non-technical Courses for Master"".",5
+HyDE,Q09,curriculum_structure,medium,Which TUHH programs include Advanced Machine Learning in their curriculum?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, and Theoretical Mechanical Engineering.",1,0.333,0.25,11.62,"Based on the provided context, the Master's programs at TUHH that include Advanced Machine Learning in their curriculum are:
+
+1. Master in Data Science (MSEMS)
+2. Master in Data Science (MSEMS) - This program is mentioned twice in the context, indicating that it has Advanced Machine Learning as a core component.
+
+I don't have enough information about the other programs to recommend one over the other. However, if I had to choose, I would recommend the Master in Data Science (MSEMS) due to its comprehensive coverage of machine learning concepts and its emphasis on practical applications.",5
+HyDE,Q10,curriculum_structure,medium,What is the workload for the Advanced Machine Learning module?,Total workload 124 hours: Independent Study Time 62 h + Study Time in Lecture 28 h for the course component.,1,1.0,0.25,11.32,"The workload for the Advanced Machine Learning module is 124 hours, which includes independent study time of 124 hours and study time in lecture (56 hours).",5
+HyDE,Q11,curriculum_structure,medium,How many hours per week is the Advanced Machine Learning lecture?,2 hours/week lecture + 2 hours/week recitation (small group) = 4 hrs/wk total.,0,0.0,0.0,3.9,I don't have enough information about the Advanced Machine Learning lecture in the provided documents.,5
+HyDE,Q12,curriculum_structure,hard,What is the difference between Core Qualification and Elective modules in the Data Science program?,Core Qualification modules are compulsory for all program students. Elective modules are optional and allow specialisation in a sub-field.,1,0.667,0.2,22.08,"In the Data Science program at TUHH, the Core Qualification (66 CP) consists of compulsory modules, which provide a solid foundation in mathematical, statistical, computer science, and software engineering principles. These modules are designed to be learned in-depth and breadth.
+
+In contrast, Elective modules offer additional opportunities for students to explore specific areas of interest, such as machine learning, natural language processing, or data visualization. These modules are not required for the Core Qualification but can be chosen by students to enhance their knowledge and skills.
+
+The program aims to foster independence and self-motivation, allowing students to explore their interests and develop research areas in a self-organized and self-motivated manner.",5
+HyDE,Q13,curriculum_structure,hard,How many total credit points are needed to finish the Data Science master?,120 credit points — standard for a 4-semester German M.Sc.,1,1.0,1.0,15.48,"Based on the provided context, to finish the Data Science master, you would need to complete the following modules:
+
+- Ship Design (6 credit points)
+- Structural Analysis of Ships and Offshore Structures (6 credit points)
+
+These two modules comprise the mandatory core qualification with a total of 12 credit points.",5
+HyDE,Q14,recommendation,medium,I love mathematics and programming. What should I study at TUHH?,Data Science or Computer Science would suit you well — both require strong mathematical foundations and programming (Python).,1,0.667,1.0,18.47,"Based on your interests in mathematics and programming, I would recommend the Master's program in Data Science at TUHH. This program covers the mathematical and computer science foundations of data science, allowing you to acquire comprehensive knowledge of the discipline and apply theoretical concepts in various application areas. As a Data Science student, you will have the opportunity to develop in-depth skills in statistical models, data representation, processing, modeling, and storage, as well as principles of data management. This program aligns with your interests and provides a strong foundation for a career in data science.",5
+HyDE,Q15,recommendation,easy,I am interested in deep learning and neural networks. Which module covers that?,"Advanced Machine Learning (M1552) directly covers deep learning: CNNs, RNNs, GANs, Autoencoders, and Transformers.",1,0.333,0.5,16.83,"Based on the provided context, the Master's Comp Sci program at TUHH covers deep learning and neural networks. Specifically, the program includes modules such as ""Master in Data Science | Source: Masters_Comp_Sci"" which introduces the fundamentals of machine learning for natural language processing and graphs, and ""Masters Data Sci | Source: Masters_Data_Sci"" which covers the same topics, including deep learning architectures, natural language processing, and graph representations.",5
+HyDE,Q16,recommendation,medium,I want to understand Generative Adversarial Networks. What module should I take?,Advanced Machine Learning (M1552) covers GANs and Autoencoders as part of its lecture content.,0,0.0,0.0,18.89,"Based on the provided context, I would recommend taking the ""Master in Data Science"" program, specifically the ""Masters Data Sci"" module, as it covers the topic of machine learning in the realm of physical systems. This module is designed to bridge the gap between abstract algorithms and real-world physical phenomena, which aligns with your interest in understanding Generative Adversarial Networks (GANs) in this context.
+
+In the ""Masters Data Sci"" module, you will learn about standard machine learning libraries in Python (preferably PyTorch), including the integration of machine learning techniques with physical systems. This module is offered fully in English, which is suitable for international students like yourself.",5
+HyDE,Q17,recommendation,hard,I want to work in AI research after my master. What should I focus on at TUHH?,"Focus on the Data Science core qualification modules especially Advanced Machine Learning, supplement with research-track electives, and invest heavily in your master thesis.",1,0.333,1.0,27.31,"Based on the provided context, I would recommend focusing on the Master's program in Data Science (MSEMS) at TUHH. This program covers advanced knowledge in a subfield of Computer Science, which aligns with the field of Artificial Intelligence (AI). The program's emphasis on developing methods suitable for solving specialized problems in AI research, as well as its focus on complex and/or incompletely defined problems, makes it an excellent fit for your interests.
+
+Additionally, the MSEMS program at TUHH is designed to provide students with the skills to apply knowledge and methods learned in the course of their studies to complex and/or incompletely defined problems in a solution-oriented way. This aligns with the skills you mentioned in the context of your research task.
+
+The other programs mentioned, such as Master's in Marketing, Management of Organizations, Strategic and Human Resource Management, and Master's in Computer Science, may also be relevant, but they may not provide the same level of focus on AI research.",5
+HyDE,Q18,recommendation,medium,I enjoy working in teams and group projects. Are there modules with teamwork?,Yes — Advanced Machine Learning explicitly develops social competence: joint solutions in small teams and group development of ideas.,1,0.333,1.0,25.41,"You're interested in exploring modules that focus on teamwork and group projects. Based on your interests, I would recommend the Master's program in Civil Engineering (Masters_Civil_Eng) or the Master's program in Environmental Engineering (Masters_Env_Eng). Both programs have modules that emphasize teamwork and group work.
+
+The Master's program in Civil Engineering has modules like ""Teamwork and Problem Solving Skills"" and ""Research-Based Teaching Approaches"", which are designed to develop teamwork and problem-solving skills through research-based teaching approaches. The program also has a strong focus on independent study and research, which can help you develop your skills in working independently and responsibly.
+
+The Master's program in Environmental Engineering also has modules that focus on teamwork and collaboration, such as ""Teamwork and Problem Solving Skills"" and ""Research-Based Teaching Approaches"". The program also has a strong emphasis on independent study and research, which can help you develop your skills in working independently and responsibly.
+
+Both programs are well-suited for students who enjoy working in teams and group projects, and I would encourage you to explore these options further.",5
+HyDE,Q19,recommendation,hard,I come from a physics background. Can I apply for the Data Science program?,"Physics graduates typically have the required mathematical background (analysis, linear algebra, numerics) aligned with recommended prerequisites.",1,0.5,0.25,15.0,"As a physics background, you may find the Data Science program at TUHH to be a good fit. The program covers the mathematical and computer science foundations of data science, which aligns with your physics background. Additionally, the program's focus on applying data science methods to physical systems, bridging the gap between abstract algorithms and real-world physical phenomena, may appeal to your interest in physics.",5
+HyDE,Q20,recommendation,medium,Which modules involve Python programming at TUHH?,Advanced Machine Learning explicitly recommends Python. Most Data Science core modules also use Python for implementations.,0,0.0,0.0,14.74,"Based on the provided context, the following modules at TUHH involve Python programming:
+
+- Masters Civil Eng
+- Masters Data Sci
+- Masters MEMS
+
+These programs cover Python programming as a compulsory or elective module, depending on the specialization.",5
+HyDE,Q21,logistics,easy,Is the Advanced Machine Learning course taught in English or German?,English (language code EN).,1,1.0,1.0,8.84,The Advanced Machine Learning course is offered fully in English.,5
+HyDE,Q22,logistics,easy,How long is the Master of Science Data Science program at TUHH?,4 semesters (2 years).,1,1.0,0.5,6.38,"The Master of Science in Data Science at TUHH is a 2-year program, typically taking 24-30 months to complete.",5
+HyDE,Q23,logistics,medium,What are the admission requirements for the Data Science master at TUHH?,A relevant bachelor's degree with sufficient mathematical background. Individual module admission requirements are listed as 'None'.,0,0.0,0.0,31.29,"Based on the provided context, the admission requirements for the Data Science master at TUHH include:
+
+- A bachelor's degree in a relevant field (not specified in the provided documents)
+- English language proficiency (as the program is offered in English)
+- A minimum of 30 CP (4th semester) in the following specializations:
+  - Specialization I: Data Science & Mathematics (12 CP)
+  - Specialization II: Computer Science (6 CP)
+  - Specialization III: Applications (6 CP)
+
+Additionally, the student should have:
+
+- A strong foundation in mathematics, as indicated by the mandatory specializations in Data Science & Mathematics and Computer Science
+- The ability to apply knowledge to solve specific problems, as emphasized in the Data Science specializations
+- The ability to recognize patterns in unstructured data and represent correlations appropriately, as mentioned in the Data Science specializations
+- The ability to train data-driven models and prepare data appropriately, as stated in the Data Science specializations
+- The ability to select the model architecture and perform the necessary tasks, as mentioned in the Data Science specializations
+
+It is recommended that the student has a strong background in mathematics and computer science, as well as relevant work experience or skills in data analysis and modeling.",5
+HyDE,Q24,logistics,easy,What literature is recommended for the Advanced Machine Learning module?,Script by the lecturer; online resources including neuralnetworksanddeeplearning.com and deeplearningbook.org.,0,0.0,0.0,24.74,"Based on the provided context, I recommend the following literature for the Advanced Machine Learning module:
+
+1. ""Deep Learning"" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016) - This book provides an in-depth introduction to deep learning architectures, including neural networks and convolutional neural networks (CNNs).
+2. ""Natural Language Processing (almost) from Scratch"" by Collobert et al. (2011) - This book covers the fundamentals of NLP, including text processing, tokenization, and machine learning algorithms for NLP tasks.
+3. ""Graph Neural Networks: Basics and Applications"" by Rastatia et al. (2020) - This paper provides an introduction to graph neural networks, which are increasingly used in NLP and other fields.
+
+These resources will provide a solid foundation for understanding the concepts and techniques covered in the Advanced Machine Learning module.",5
+HyDE,Q25,comparative,hard,What is the difference between Data Science and Computer Science programs at TUHH?,Both share modules like Advanced Machine Learning. Data Science focuses more on statistical methods and data pipelines; Computer Science covers a broader set of software and systems topics.,1,1.0,1.0,29.48,"Based on the provided context, the main difference between Data Science and Computer Science programs at TUHH lies in their focus and approach.
+
+Data Science programs at TUHH, such as the Master in Data Science, focus on the application of mathematical, statistical, computer science, and software engineering principles to extract insights and knowledge from data. They emphasize the practical application of data science methods, critical thinking, and problem-solving skills.
+
+In contrast, Computer Science programs at TUHH, such as the Master in Computer Science, focus on the theoretical foundations of computer science, programming, and software engineering. They provide a strong foundation in computer science concepts, but may not delve as deeply into data science methods and applications.
+
+If you're considering pursuing a Master in Data Science at TUHH, you may find that the program's emphasis on practical problem-solving, data analysis, and data-driven decision-making aligns more closely with your interests and career goals.",5
+HyDE,Q26,comparative,medium,Which programs at TUHH share the Advanced Machine Learning module?,"Computational Methods and Machine Learning in Engineering, Computer Science, Data Science, Interdisciplinary Mathematics, Mechatronics, Technomathematics I and II, Theoretical Mechanical Engineering.",1,0.333,0.5,30.16,"Based on the provided context, the programs at TUHH that share the Advanced Machine Learning module are:
+
+- Masters Civil Eng
+- Masters Mechatronics
+- Masters MEM",5
+HyDE,Q27,comparative,hard,Which TUHH programs involve machine learning?,"Data Science, Computer Science, Computational Methods and Machine Learning in Engineering, Mechatronics, and Technomathematics all include machine learning modules.",1,0.667,1.0,15.79,"Based on the provided context, the TUHH programs that involve machine learning are:
+
+1. Master in Data Science (Masters_Data_Sci)
+2. Master in Machine Learning and Signal Processing (Masters_MSEMS)
+3. Master in Mechatronics (Masters_Mechatronics)
+
+These programs cover machine learning concepts and techniques, and are designed to help students understand and apply machine learning in the realm of physical systems.",5
+HyDE,Q28,comparative,hard,What skills will I have after completing the Data Science master?,Professional knowledge: classify state-of-the-art neural networks. Practical skills: implement and apply neural networks to new domains. Social: collaborate in small teams. Autonomy: self-direct work and assess correctness independently.,1,0.5,1.0,19.68,"Based on the provided context, after completing the Data Science master program at the Technical University of Hamburg, you will have developed skills in:
+
+1. Applying knowledge to solve specific problems, including data acquisition, storage, and analysis.
+2. Recognizing patterns in unstructured data and representing correlations appropriately.
+3. Training data-driven models and preparing data for analysis.
+4. Selecting and performing appropriate methods for data analysis and modeling.
+5. Working with large amounts of data and understanding data management principles.
+
+These skills are designed to prepare you for a career in research and development, particularly in academic or industrial environments, where you will work with large datasets and apply data science methods to solve complex problems.",5
+HyDE,Q29,comparative,hard,I want to combine engineering with advanced mathematics. What do you recommend?,Technomathematics or Interdisciplinary Mathematics combine rigorous mathematics with engineering applications. Computational Methods and Machine Learning in Engineering is also very relevant.,1,0.667,1.0,24.45,"Based on your interest in combining engineering with advanced mathematics, I would recommend the Master's program in Data Science (Masters Data Sci). This program covers knowledge engineering or mathematics at the Master's level, which aligns with your interests. You will have the opportunity to familiarize in a specific topic in limited time, which is ideal for those who want to dive deeper into a particular area.
+
+Additionally, the Data Science program at TUHH offers a strong foundation in both engineering and mathematics, with a focus on data-driven solutions. You will have the chance to explore various topics, including machine learning, statistics, and data visualization, which are essential skills for engineers and mathematicians alike.
+
+The program's educational objectives, which include explication of a specific topic, description of complex issues, and presentation of different views and evaluation in a critical way, are also relevant to your interests. You will be able to develop your skills in a specific topic in limited time, which will help you to become proficient in your chosen field.
+
+Overall, I believe that the Master's program in Data Science at TUHH is an excellent choice for you, as it offers a unique combination of engineering and mathematics, with a strong focus on data-driven solutions.",5
+HyDE,Q30,comparative,hard,Are there modules compulsory across multiple TUHH master programs?,Yes. Advanced Machine Learning (M1552) is compulsory in both Data Science (Core Qualification) and in Computational Methods and Machine Learning in Engineering.,1,0.333,0.2,14.21,"Based on the provided context, it appears that there are modules that are compulsory across multiple TUHH master programs. Specifically, the modules ""Seakeeping of Ships and Laboratory on Naval Architecture"" and ""Manoeuvrability and Shallow Water Ship Hydrodynamics"" are listed as options for students to choose from in multiple master programs, including Masters Ship Tech, Masters GTIME, and Masters Civil Eng.
+
+These modules seem to be part of the same program or discipline, and students can choose to specialize in one of the five alternative specializations within each program.",5

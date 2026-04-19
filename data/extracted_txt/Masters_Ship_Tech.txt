@@ -1,0 +1,2002 @@
+Master of Science (M.Sc.)
+Ship and Offshore Technology
+
+Joint Master
+
+Cohort: Winter Term 2025
+
+Updated: 8th May 2025
+
+
+
+Table of Contents
+
+Table of Contents
+Program description
+Core Qualification
+
+Module M0601: Structural Analysis of Ships and Offshore Structures
+Module M0603: Nonlinear Structural Analysis
+Module M0658: Innovative CFD Approaches
+Module M1146: Ship Vibration
+Module M1169: Ship Design (JM)
+Module M1176: Seakeeping of Ships and Laboratory on Naval Architecture
+Module M1178: Manoeuvrability and Shallow Water Ship Hydrodynamics
+Module M1232: Arctic Technology
+Module M1240: Fatigue Strength of Ships and Offshore Structures
+
+Thesis
+
+Module M-002: Master Thesis
+
+2
+3
+4
+4
+6
+8
+10
+12
+13
+15
+17
+19
+21
+21
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Program description
+
+Content
+
+The joint Master Course „Ship and Oﬀshore Technology” is held in cooperation with the University of Strathclyde, Glasgow, UK. The course is designed
+for  graduate  engineers  or  those  from  related  disciplines  who  wish  to  acquire  advanced  knowledge  on  ship  and  oﬀshore  technologies.  The  graduates
+possess  a  critical  awareness  against  new  knowledge  in  their  discipline,  on  which  basis  they  are  enabled  to  act  responsible  in  their  professional  and
+societal environment. As a result of the cooperation, graduates are specialised in offshore technology with dedicated knowledge on ships.
+
+Career prospects
+
+The  Master  course  strengthens  the  engineering,  mathematical  and  natural  science  knowledge  gained  during  the  Bachelor  education  and  conveys
+competences to solve problems in a systematic, scientiﬁc and independent fashion relevant for industry and research activities. The contents concern
+analysis,  design  and  implementation  methods  for  Ships  and  Oﬀshore  systems.  The  individual  selection  of  the  elective  modules  allows  for  a  certain
+specialization while the mandatory courses secure a solid understanding of the general basics and in the related ﬁelds. Thereby the students are able to
+adjust their study contents individually according to their personal preferences. Further, the solid knowledge of the general basics and knowledge in the
+ﬁeld related to the chosen specialisation allow for a broad professional expertise and thus a wide professional applicability. The graduates can take on
+scientiﬁc tasks at universities or research institutes with the aim of a doctoral dissertation or ﬁnd their way directly into the industry. As for the latter,
+they may specialize in dedicated areas and with further experience and qualification they can take over leading roles.
+
+Learning target
+
+The graduates can analyse problems scientiﬁcally and solve them, even though they are not typical or only partially deﬁned with conﬂicting objectives;
+complex tasks can be solved by abstracting from on-going research and development activities in their discipline; innovative and new methods can be
+used  to  ﬁnd  fundamental  solutions;  knowledge  gaps  can  be  identiﬁed  and  solutions  can  be  proposed  to  overcome  these  gaps;  theoretical  and
+experimental investigations can be planned and executed; results can be analysed critically and conclusions can be drawn; emerging technologies can
+be analysed and reviewed. By doing so, they can classify knowledge from diﬀerent disciplines systematically and thereby cope with complex problems.
+Further,  they  are  able  to  reﬂect  on  the  non-technical  aspects  of  their  engineering  tasks  responsibly.  They  can  expand  on  the  knowledge  gained  and
+develop further competences, also with the aim to succeed with a doctoral thesis. Consequently, the key skills from the preceding Bachelor education
+relevant for practical engineering tasks will be expanded in this Master course.
+
+Program structure
+
+This master course consists of the following mandatory courses held at the University of Strathclyde:
+
+Offshore Engineering Practice
+Risers and Mooring Lines
+Marine Pipelines
+Dynamics or Floating Offshore Installations
+Maritime safety and risk
+Design and construction of FPSOs
+Theory and Practice of Marine CFD
+Inspection and survey
+Group Project
+Research Project
+
+At the Hamburg University of Technology the courses are modularized and follow the university-wide standard course structure with course modules of
+six  credit  points.  The  Master  course  combines  the  disciplines  relevant  for  Naval  Architecture  and  Ocean  Engineering  on  the  basis  of  the  preceding
+Bachelor  studies.  Essential  modules  are  mandatory  for  all  students  to  allow  for  an  even  skill  level  among  graduates.  Further,  students  are  able  to
+personalize their studies due to several module options. The following modules comprise the mandatory core qualification with six credit points each:
+
+Ship Design
+Structural Analysis of Ships and Offshore Structures
+Ship Vibration
+
+The students further specialize by individually selecting two modules from the following options:
+
+Seakeeping of Ships and Laboratory on Naval Architecture
+Fatigue Strength of Ships and Offshore Structures
+Arctic Technology
+Innovative CFD Approaches
+Manoeuvrability and Shallow Water Ship Hydrodynamics
+Nonlinear Structural Analysis
+
+Finally, the master thesis must be completed valued at 30 credits:
+
+Master Thesis
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Core Qualification
+
+This  programme  is  designed  for  graduate  engineers  in  naval  architecture, oﬀshore  engineering,  mechanical  engineering  and  other  related disciplines
+who wish to acquire advanced knowledge in a broad range of subjects of ship and offshore technologies.
+This  two  year  course  is  oﬀered  jointly  with  Hamburg  University  of Technology  (TUHH)  in  Germany.  Year  1  is  completed  at  Strathclyde  and  Year  2  in
+Hamburg. The award is made in the name of both universities.
+
+The ﬁrst year will be held at the University of Strathclyde will provide skills in Oﬀshore Engineering Practice, Risers & Mooring Lines, Marine Pipelines,
+Dynamics of Floating Oﬀshore Installations, Maritime Safety & Risk, Design & Construction of Floating, Production, Storage & Oﬄoading Vessels, Theory
+& Practice of Marine Computational Fluid Dynamics (CFD), Inspection & Survey, also while you carry out a group and research Project. The second year
+will be held at the Hamburg University of Technology where you gain skills in Structural Analysis of Ships & Offshore Structures, Ship Design
+Seakeeping  of  Ships  &  Laboratory  on  Naval  Architecture,  as  well as  in  two  of  the  following  subjects:  Ship  Vibration,  Non-Linear Structural  Analysis,
+Fatigue Strength of Ships & Oﬀshore Structures, Arctic Technology, Innovative CFD Approaches,  Manoeuvrability & Shallow Water Ship Hydrodynamics.
+In addition you will carry out your master thesis in a specific topic at the Hamburg University of Technology.
+
+Module M0601: Structural Analysis of Ships and Offshore Structures
+
+Courses
+
+Title
+
+Structural Analysis of Ships and Offshore Structures (L0272)
+
+Structural Analysis of Ships and Offshore Structures (L0273)
+
+Module Responsible Prof. Alexander Düster
+
+Admission Requirements None
+
+Typ
+
+Lecture
+
+Recitation Section (small)
+
+Hrs/wk
+
+2
+
+2
+
+CP
+
+3
+
+3
+
+Recommended Previous
+
+Mathematics I, II, III, Mechanics I, II, III, IV
+
+Knowledge
+
+Differential Equations 2 (Partial Differential Equations)
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge Students are able to
+
++ give an overview of the basics of structural mechanics for the analysis of ships and offshore structures.
+
++ explain structural models for thin-walled structures.
+
++  specify  problems  of  linear  structural  analysis,  to  identify  them  in  a  given  situation  and  to  explain  their  mathematical  and
+
+mechanical background.
+
++ classify finite elements with respect to their suitability for the structural analysis of ships and offshore structures.
+
+Skills Students are able to
+
++ model linear structural problems of ships and offshore structures.
+
++ select a suitable finite element formulation for a given linear problem of structural mechanics .
+
++ apply finite element procedures to the linear structural analysis of ships and offshore structures.
+
++ verify and critically judge the results of linear finite element computations.
+
++ transfer their knowledge of linear structural analysis with finite elements to new problems.
+
+Personal Competence
+
+Social Competence Students are able to
+
++ solve problems in heterogeneous groups and to document the corresponding results.
+
++ share new knowledge with group members.
+
+Autonomy Students are able to
+
++ assess their knowledge by means of exercises and E-Learning.
+
+Workload in Hours Independent Study Time 124, Study Time in Lecture 56
+
+Credit points 6
+
+Course achievement None
+
+Examination Written exam
+
+Examination duration and
+
+2h
+
+scale
+
+Assignment for the
+
+Naval Architecture and Ocean Engineering: Core Qualification: Compulsory
+
+Following Curricula
+
+Naval Architecture and Ocean Engineering: Core Qualification: Compulsory
+
+Ship and Offshore Technology: Core Qualification: Compulsory
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L0272: Structural Analysis of Ships and Offshore Structures
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Prof. Alexander Düster
+
+Language EN
+
+Cycle WiSe
+
+Content 1. Introduction
+
+2. Basic equations of elastostatics
+
+3. Approximation procedures
+
+4. The finite element method
+
+5. Mechanical models and finite elements for thin-walled structures
+
+6. Application to ships and offshore structures
+
+Literature [1]  Alexander  Düster,  Structural  Analysis  of  Ships  and  Oﬀshore  Structures,  Lecture  Notes,  Technische  Universität  Hamburg-
+
+Harburg, 125 pages, 2014.
+
+[2] G. Clauss, E. Lehmann, C. Östergaard, M.J. Shields, Oﬀshore Structures: Volume II, Strength and Safety for Structural Design,
+
+Springer, 1993.
+
+[3] G. Clauss, E. Lehmann, C. Östergaard, Meerestechnische Konstruktionen, Springer, 1988.
+
+Course L0273: Structural Analysis of Ships and Offshore Structures
+
+Typ Recitation Section (small)
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Prof. Alexander Düster
+
+Language EN
+
+Cycle WiSe
+
+Content 1. Introduction
+
+2. Basic equations of elastostatics
+
+3. Approximation procedures
+
+4. The finite element method
+
+5. Mechanical models and finite elements for thin-walled structures
+
+6. Application to ships and offshore structures
+
+Literature [1]  Alexander  Düster,  Structural  Analysis  of  Ships  and  Oﬀshore  Structures,  Lecture  Notes,  Technische  Universität  Hamburg-
+
+Harburg, 125 pages, 2014.
+
+[2] G. Clauss, E. Lehmann, C. Östergaard, M.J. Shields, Oﬀshore Structures: Volume II, Strength and Safety for Structural Design,
+
+Springer, 1993.
+
+[3] G. Clauss, E. Lehmann, C. Östergaard, Meerestechnische Konstruktionen, Springer, 1988.
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M0603: Nonlinear Structural Analysis
+
+Courses
+
+Title
+
+Nonlinear Structural Analysis (L0277)
+
+Nonlinear Structural Analysis (L0279)
+
+Module Responsible Prof. Alexander Düster
+
+Admission Requirements None
+
+Typ
+
+Lecture
+
+Recitation Section (small)
+
+Hrs/wk
+
+3
+
+1
+
+CP
+
+4
+
+2
+
+Recommended Previous
+
+Knowledge of partial differential equations is recommended.
+
+Knowledge
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge Students are able to
+
++ give an overview of the different nonlinear phenomena in structural mechanics.
+
++ explain the mechanical background of nonlinear phenomena in structural mechanics.
+
++ to specify problems of nonlinear structural analysis, to identify them in a given situation and to explain their mathematical and
+
+mechanical background.
+
+Skills Students are able to
+
++ model nonlinear structural problems.
+
++ select for a given nonlinear structural problem a suitable computational procedure.
+
++ apply finite element procedures for nonlinear structural analysis.
+
++ critically verify and judge results of nonlinear finite elements.
+
++ to transfer their knowledge of nonlinear solution procedures to new problems.
+
+Personal Competence
+
+Social Competence Students are able to
+
++ solve problems in heterogeneous groups.
+
++ present and discuss their results in front of others.
+
++ give and accept professional constructive criticism.
+
+Autonomy Students are able to
+
++ assess their knowledge by means of exercises and E-Learning.
+
++ acquaint themselves with the necessary knowledge to solve research oriented tasks.
+
++ to transform the acquired knowledge to similar problems.
+
+Workload in Hours Independent Study Time 124, Study Time in Lecture 56
+
+Credit points 6
+
+Course achievement None
+
+Examination Written exam
+
+Examination duration and
+
+120 min
+
+scale
+
+Assignment for the
+
+Civil Engineering: Specialisation Structural Engineering: Elective Compulsory
+
+Following Curricula
+
+Civil Engineering: Specialisation Computational Engineering: Compulsory
+
+Computational Engineering: Core Qualification: Elective Compulsory
+
+International Management and Engineering: Specialisation II. Civil Engineering: Elective Compulsory
+
+Mechanical Engineering - Product Development and Production: Core Qualification: Elective Compulsory
+
+Materials Science and Engineering: Specialisation Modeling: Elective Compulsory
+
+Materials Science: Specialisation Modeling: Elective Compulsory
+
+Mechatronics: Technical Complementary Course: Elective Compulsory
+
+Mechatronics: Core Qualification: Elective Compulsory
+
+Product Development, Materials and Production: Core Qualification: Elective Compulsory
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Ship and Offshore Technology: Core Qualification: Elective Compulsory
+
+Theoretical Mechanical Engineering: Specialisation Simulation Technology: Elective Compulsory
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L0277: Nonlinear Structural Analysis
+
+Typ Lecture
+
+Hrs/wk 3
+
+CP 4
+
+Workload in Hours Independent Study Time 78, Study Time in Lecture 42
+
+Lecturer Prof. Alexander Düster
+
+Language EN
+
+Cycle WiSe
+
+Content 1. Introduction
+
+2. Nonlinear phenomena
+
+3. Mathematical preliminaries
+
+4. Basic equations of continuum mechanics
+
+5. Spatial discretization with finite elements
+
+6. Solution of nonlinear systems of equations
+
+7. Solution of elastoplastic problems
+
+8. Stability problems
+
+9. Contact problems
+
+Literature [1] Alexander Düster, Nonlinear Structrual Analysis, Lecture Notes, Technische Universität Hamburg-Harburg, 2014.
+
+[2] Peter Wriggers, Nonlinear Finite Element Methods, Springer 2008.
+
+[3] Peter Wriggers, Nichtlineare Finite-Elemente-Methoden, Springer 2001.
+
+[4]  Javier  Bonet  and  Richard  D.  Wood,  Nonlinear  Continuum  Mechanics  for  Finite  Element  Analysis,  Cambridge  University  Press,
+
+2008.
+
+Course L0279: Nonlinear Structural Analysis
+
+Typ Recitation Section (small)
+
+Hrs/wk 1
+
+CP 2
+
+Workload in Hours Independent Study Time 46, Study Time in Lecture 14
+
+Lecturer Prof. Alexander Düster
+
+Language EN
+
+Cycle WiSe
+
+Content See interlocking course
+
+Literature See interlocking course
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M0658: Innovative CFD Approaches
+
+Courses
+
+Title
+
+Application of Innovative CFD Methods in Research and Development (L0239)
+
+Typ
+
+Lecture
+
+Application of Innovative CFD Methods in Research and Development (L1685)
+
+Recitation Section (small)
+
+Hrs/wk
+
+2
+
+2
+
+CP
+
+3
+
+3
+
+Module Responsible Prof. Thomas Rung
+
+Admission Requirements None
+
+Recommended Previous
+
+Students should have sound knowledge of engineering mathematics (series expansions, internal & vector calculus), and be familiar
+
+Knowledge
+
+with the foundations of partial/ordinary diﬀerential equations. They are expected to be familiar with engineering ﬂuid mechanics.
+
+Basic knowledge of numerical analysis or computational ﬂuid dynamics, e.g. acquired in previous CFD courses, is of advantage but
+
+not necessary.
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge Students  will  acquire  a  deeper  knowledge  of  recent  trends  in  computational  ﬂuid  dynamics  (CFD),  i.e.  ﬁnite  volume,  smoothed
+
+particle  hydrodynamics  and  lattice  Boltzmann  approaches,  and  can  relate  recent  innovations  with  present  challenges  in
+
+computational ﬂuid mechanics. They are familiar with the similarities and diﬀerences between diﬀerent Eulerian and Lagrangian
+
+discretisation  and  approximation  concepts  for  investigating  on  the  basis  of  continuum  and  kinetic  theories.  Students  have  the
+
+required  knowledge  to  develop,  explain,  code  and  apply  numerical  models  concepts  to  approximate  multiphase  and  multiﬁeld
+
+problems with grid and particle based methods, respectively. Students know the fundamentals of simulation based PDE constraint
+
+optimisation.
+
+Skills The students are able choose and apply appropriate discretisation concepts and ﬂow physics models. They acquire the ability to
+
+code  computational  algorithms  dedicated  to  ﬁnite  volumes  on  unstructured  grids  &  particle-based  discretisations  &  structured
+
+lattice Boltzmann arrangements, apply these codes for parameter investigations and supplement interfaces to extract simulation
+
+data for an engineering analysis. They are able to sophisticatedly judge different solution strategies.
+
+Personal Competence
+
+Social Competence The students are able to discuss problems, present the results of their own analysis, and jointly develop, implement and report on
+
+solution strategies that address given technical reference problems in a team. They to lead team sessions and present solutions to
+
+experts.
+
+Autonomy The  students  can  independently  analyse  innovative  methods  to  solving  ﬂuid  engineering  problems.  They  are  able  to  critically
+
+analyse  own  results  as  well  as  external  data  with  regards  to  the  plausibility  and  reliability.  Students  are  able  to  structure  and
+
+perform a simulation-based investigation.
+
+Workload in Hours Independent Study Time 124, Study Time in Lecture 56
+
+Credit points 6
+
+Course achievement Compulsory Bonus
+20 %
+
+Yes
+
+Form
+
+Description
+
+Written elaboration
+
+Examination Oral exam
+
+Examination duration and
+
+30 min
+
+scale
+
+Assignment for the
+
+Computational Engineering: Core Qualification: Elective Compulsory
+
+Following Curricula
+
+Energy Systems: Core Qualification: Elective Compulsory
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Ship and Offshore Technology: Core Qualification: Elective Compulsory
+
+Theoretical Mechanical Engineering: Specialisation Simulation Technology: Elective Compulsory
+
+Process Engineering: Specialisation Process Engineering: Elective Compulsory
+
+Course L0239: Application of Innovative CFD Methods in Research and Development
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Prof. Thomas Rung
+
+Language DE/EN
+
+Cycle WiSe
+
+Content Computational  Optimisation,  Parallel  Computing,  Eﬃcient  CFD-Procedures      for  GPU  Archtiectures,  Alternative  Approximations
+
+(Lattice-Boltzmann Methods, Particle Methods), Fluid/Structure-Interaction, Modelling of Hybrid Continua
+
+Literature Vorlesungsmaterialien /lecture notes
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L1685: Application of Innovative CFD Methods in Research and Development
+
+Typ Recitation Section (small)
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Prof. Thomas Rung
+
+Language DE/EN
+
+Cycle WiSe
+
+Content See interlocking course
+
+Literature See interlocking course
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M1146: Ship Vibration
+
+Courses
+
+Title
+
+Ship Vibration (L1528)
+
+Ship Vibration (L1529)
+
+Module Responsible Dr. Rüdiger Ulrich Franz von Bock und Polach
+
+Admission Requirements None
+
+Recommended Previous
+
+Mechanis I - III
+
+Knowledge
+
+Structural Analysis of Ships I
+
+Fundamentals of Ship Structural Design
+
+Typ
+
+Lecture
+
+Recitation Section (small)
+
+Hrs/wk
+
+2
+
+2
+
+CP
+
+3
+
+3
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge Students can reproduce the acceptance criteria for vibrations on ships; they can explain the methods for the calculation of natural
+
+frequencies and forced vibrations of sructural components and the entire hull girder; they understand the eﬀect of exciting forces
+
+of the propeller and main engine and methods for their determination
+
+Skills Students  are  capable  to  apply  methods  for  the  calculation  of  natural  frequencies  and exciting  forces  and  resulting  vibrations  of
+
+ship structures including their assessment; they can model structures for the vibration analysis
+
+Personal Competence
+
+Social Competence The  students  are  able  to  communicate  and  cooperate  in  a  professional environment  in  the  shipbuilding  and  component  supply
+
+industry.
+
+Autonomy Students  are  able  to  detect  vibration-prone  components  on  ships,  to  model  the structure,  to  select  suitable  calculation  methods
+
+and to assess the results
+
+Workload in Hours Independent Study Time 124, Study Time in Lecture 56
+
+Credit points 6
+
+Course achievement None
+
+Examination Written exam
+
+Examination duration and
+
+3 hours
+
+scale
+
+Assignment for the
+
+Energy Systems: Specialisation Marine Engineering: Elective Compulsory
+
+Following Curricula
+
+Naval Architecture and Ocean Engineering: Core Qualification: Compulsory
+
+Naval Architecture and Ocean Engineering: Core Qualification: Compulsory
+
+Ship and Offshore Technology: Core Qualification: Compulsory
+
+Theoretical Mechanical Engineering: Specialisation Maritime Technology: Elective Compulsory
+
+Course L1528: Ship Vibration
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Dr. Rüdiger Ulrich Franz von Bock und Polach
+
+Language EN
+
+Cycle WiSe
+
+Content 1. Introduction; assessment of vibrations
+
+2. Basic equations
+
+3. Beams with discrete / distributed masses
+
+4. Complex beam systems
+
+5. Vibration of plates and Grillages
+
+6. Deformation method / practical hints / measurements
+
+7. Hydrodynamic masses
+
+8. Spectral method
+
+9. Hydrodynamic masses acc. to Lewis
+
+10. Damping
+
+11. Shaft systems
+
+12. Propeller excitation
+
+13. Engines
+
+Literature Siehe Vorlesungsskript
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L1529: Ship Vibration
+
+Typ Recitation Section (small)
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Dr. Rüdiger Ulrich Franz von Bock und Polach
+
+Language EN
+
+Cycle WiSe
+
+Content 1. Introduction; assessment of vibrations
+
+2. Basic equations
+
+3. Beams with discrete / distributed masses
+
+4. Complex beam systems
+
+5. Vibration of plates and Grillages
+
+6. Deformation method / practical hints / measurements
+
+7. Hydrodynamic masses
+
+8. Spectral method
+
+9. Hydrodynamic masses acc. to Lewis
+
+10. Damping
+
+11. Shaft systems
+
+12. Propeller excitation
+
+13. Engines
+
+Literature Siehe Vorlesungsskript
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M1169: Ship Design (JM)
+
+Courses
+
+Title
+
+Ship Design (JM) (L1577)
+
+Ship Design (JM) (L1578)
+
+Module Responsible Prof. Stefan Krüger
+
+Admission Requirements None
+
+Typ
+
+Lecture
+
+Recitation Section (large)
+
+Hrs/wk
+
+2
+
+2
+
+CP
+
+4
+
+2
+
+Recommended Previous
+
+The student must have participated at the lecture Ship Design (Bachelor).
+
+Knowledge
+
+Ship safety
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge The  student  shall  link  the  methods  and  design  principles  he  learnt  in the  basic  lecture  to  speciﬁc  design  problems  of  Container,
+
+RoRo,  RoPax  and  Passenger  Vessels.  At  the  end  of  the  lecture  it  is  expected  that  the  student  can  carry  out  ship  designs
+
+sucessfully.
+
+Skills The  most  imortant  design  problems,  constraints  and  methods  related  to the  a.m.  ship  typs  are  referenced,  based  on  the  list  of
+
+methods developed  in  Ship  Design  (BA).  The  a.m.  ship  types  serve  as  reference vessels  where  the  application  shall  point  out
+
+speciﬁc  design  aspects. The  lecture  closes  with  a  brief  introduction  of  design  principles  of  dry bulk  carriers,  paper  carriers  and
+
+ouble ended ferries.
+
+Personal Competence
+
+Social Competence The student learns to make technical decisions and to get acceptance for his decisions.
+
+Autonomy Autonomous applicatin of basic technical knowledge to the design process.
+
+Workload in Hours Independent Study Time 124, Study Time in Lecture 56
+
+Credit points 6
+
+Course achievement None
+
+Examination Oral exam
+
+Examination duration and
+
+45 min
+
+scale
+
+Assignment for the
+
+Ship and Offshore Technology: Core Qualification: Compulsory
+
+Following Curricula
+
+Course L1577: Ship Design (JM)
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 4
+
+Workload in Hours Independent Study Time 92, Study Time in Lecture 28
+
+Lecturer Prof. Stefan Krüger
+
+Language DE/EN
+
+Cycle WiSe
+
+Content The  student  shall  link  the  methods  and  design  principles  he  learnt  in the  lecture  Ship  Design  I  to  speciﬁc  design  problems  of
+
+Container, RoRo, RoPax and Passenger Vessels. At the end of the lecture it is  expected that the student can carry out ship designs
+
+sucessfully. The most imortant design problems, constraints and methods related to  the a.m. ship typs are referenced, based on
+
+the list of methods developed in Ship Design I. The a.m. ship types serve as reference vessels where the application shall point out
+
+speciﬁc  design  aspects. The  lecture  closes  with  a  brief  introduction  of  design  principles  of  dry bulk  carriers,  paper  carriers  and
+
+ouble ended ferries.
+
+Literature Schneekluth: Entwerfen von Schiffen
+
+Course L1578: Ship Design (JM)
+
+Typ Recitation Section (large)
+
+Hrs/wk 2
+
+CP 2
+
+Workload in Hours Independent Study Time 32, Study Time in Lecture 28
+
+Lecturer Prof. Stefan Krüger
+
+Language DE/EN
+
+Cycle WiSe
+
+Content See interlocking course
+
+Literature See interlocking course
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M1176: Seakeeping of Ships and Laboratory on Naval Architecture
+
+Courses
+
+Title
+
+Laboratory on Naval Architecture (L0241)
+
+Seakeeping of Ships (L1594)
+
+Seakeeping of Ships (L1619)
+
+Typ
+
+Practical Course
+
+Lecture
+
+Recitation Section (small)
+
+Hrs/wk
+
+CP
+
+2
+
+2
+
+2
+
+2
+
+3
+
+1
+
+Module Responsible Prof. Moustafa Abdel-Maksoud
+
+Admission Requirements None
+
+Recommended Previous
+
+Basic knowledge of ship dynamics as well as stochastic and statistics
+
+Knowledge
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge
+
+Understand present research questions in the field of ship motion in waves
+
+Explain the present state of the art for the topics considered
+
+Apply given methodology to approach given problems of seakeeping behavior
+
+Evaluate the limits of the present methods
+
+Identify possibilities to extend present methods
+
+Evaluate the feasibility of further developments
+
+Skills Students are able to
+
+• select and apply suitable computing and simulation methods to determine the dynamic loads on ships and floating bodies
+
+• model the behavior of ships and floating bodies under different sea conditions by using simplified methods
+
+• evaluate critically the investigation results of  experimental or numerical studies
+
+Personal Competence
+
+Social Competence Students are able to
+
+solve problems in heterogeneous groups and to document the corresponding results
+
+share new knowledge with group members
+
+Autonomy Students are able to
+
+assess their knowledge by means of exercises
+
+think system-oriented
+
+decompose complex systems
+
+Workload in Hours Independent Study Time 96, Study Time in Lecture 84
+
+Credit points 6
+
+Course achievement Compulsory Bonus
+20 %
+
+Yes
+
+Form
+
+Excercises
+
+Description
+
+Examination Written exam
+
+Examination duration and
+
+180 min
+
+scale
+
+Assignment for the
+
+Naval Architecture and Ocean Engineering: Core Qualification: Compulsory
+
+Following Curricula
+
+Naval Architecture and Ocean Engineering: Core Qualification: Compulsory
+
+Ship and Offshore Technology: Core Qualification: Elective Compulsory
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L0241: Laboratory on Naval Architecture
+
+Typ Practical Course
+
+Hrs/wk 2
+
+CP 2
+
+Workload in Hours Independent Study Time 32, Study Time in Lecture 28
+
+Lecturer Prof. Thomas Rung, Hauke Herrnring
+
+Language DE/EN
+
+Cycle SoSe
+
+Content The lab is structured into 5 team-based  experiments
+
+1.  Resistance test
+
+Towing test to investigate a model hull resistance
+
+2.  Propulsion test
+
+Propulsion fest for a self propelled hulll. Determination of thrust deduction, wake fraction and propulsion efficiency.
+
+3.  Seakeeping test
+
+Investigation of the seakeeping behaviour
+
+4.  Open water and cavitation test
+
+Compilation of an open water diagram and cavitation experiments
+
+5.  Application of strain measurement techniques
+
+Theoretical instructions will also involve foundations of similarity analysis
+
+Literature Vorlesungsmanuskript
+
+Lecture Notes
+
+Course L1594: Seakeeping of Ships
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Prof. Moustafa Abdel-Maksoud
+
+Language DE/EN
+
+Cycle WiSe
+
+Content
+
+1.  Numerical methods for the determination of section forces
+
+2.  Steep waves (Stokes-Theory)
+
+3.  3d-potential flow methods
+
+4.  Time domain simulaiton of ship motions
+
+5.  Capsizing
+
+6.  Slamming
+
+Literature
+
+Söding, H., Schiffe im Seegang I, Vorlesungsmanuskript, Institut für Fluiddynamik und Schiffstheorie, TUHH, Hamburg, 1992
+
+Jensen, G., Söding, H. S., Schiﬀe im Seegang II, Vorlesungsmanuskript,  Institut  für  Fluiddynamik  und  Schiﬀstheorie,  TUHH,
+
+Hamburg, 2005
+
+Bertram,  V.,  Practical  Ship  Design  Hydrodynamics,  Butterworth-Heinemann,  Linacre  House,  Jordan  Hill,  Oxford,  United
+
+Kingdom, 2000
+
+Lloyed, A., Ship Behaviour in Rough Weather, Gosport, Chichester, Sussex, United Kingdom, 1998
+
+Jensen, J. J., Load and Global Response of Ships, Elsevier Science, Oxford, United Kingdom, 2001
+
+Course L1619: Seakeeping of Ships
+
+Typ Recitation Section (small)
+
+Hrs/wk 2
+
+CP 1
+
+Workload in Hours Independent Study Time 2, Study Time in Lecture 28
+
+Lecturer Prof. Moustafa Abdel-Maksoud
+
+Language DE/EN
+
+Cycle WiSe
+
+Content See interlocking course
+
+Literature See interlocking course
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M1178: Manoeuvrability and Shallow Water Ship Hydrodynamics
+
+Courses
+
+Title
+
+Manoeuvrability of Ships (L1597)
+
+Shallow Water Ship Hydrodynamics (L1598)
+
+Module Responsible Prof. Moustafa Abdel-Maksoud
+
+Admission Requirements None
+
+Recommended Previous
+
+B.Sc. Schiffbau
+
+Knowledge
+
+Typ
+
+Lecture
+
+Lecture
+
+Hrs/wk
+
+2
+
+2
+
+CP
+
+3
+
+3
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge The  students  lern  the  motion  equation  and  how  to  describe  hydrodynamic  forces.  They'll  will  be  able  to  develop  methods  for
+
+analysis of manoeuvring behaviour of ships and explaining the Nomoto equation. The students will know the common model tests
+
+as well as their assets and drawbacks.
+
+Furthermore,  the  students  lern  the  basics  of  assessment  and  prognosis  of  ship  manoeuvrabilit.  Basics  of  characteristics  of  ﬂows
+
+around ships in shallow water regarding ship propulsion and manoeuvrability will be aquired.
+
+Skills
+
+Personal Competence
+
+Social Competence
+
+Autonomy
+
+Workload in Hours Independent Study Time 124, Study Time in Lecture 56
+
+Credit points 6
+
+Course achievement None
+
+Examination Written exam
+
+Examination duration and
+
+180 min
+
+scale
+
+Assignment for the
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Following Curricula
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Ship and Offshore Technology: Core Qualification: Elective Compulsory
+
+Theoretical Mechanical Engineering: Specialisation Maritime Technology: Elective Compulsory
+
+Course L1597: Manoeuvrability of Ships
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Prof. Moustafa Abdel-Maksoud
+
+Language DE/EN
+
+Cycle WiSe
+
+Content
+
+coordinates & degrees of freedom
+
+governing equations of motion
+
+hydrodynamic forces & moments
+
+ruder forces
+
+navigation based on linearised eq.of motion(exemplary solutions, yaw stability)
+
+manoeuvering test (constraint & unconstraint motion)
+
+slender body approximation
+
+Learning Outcomes
+
+Introduction into basic concepts for the assessment and prognosis ship manoeuvrabilit.
+
+Ability to develop methods for analysis of manoeuvring behaviour of ships.
+
+Literature
+
+Crane, C. L. H., Eda, A. L., Principles of Naval Architecture, Chapter 9, Controllability, SNAME, New York, 1989
+
+Brix, J., Manoeuvring Technical Manual, Seehafen Verlag GmbH, Hamburg 1993
+
+Söding, H., Manövrieren , Vorlesungsmanuskript, Institut für Fluiddynamik und Schiffstheorie, TUHH, Hamburg, 1995
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L1598: Shallow Water Ship Hydrodynamics
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Prof. Moustafa Abdel-Maksoud, Dr. Norbert Stuntz
+
+Language DE/EN
+
+Cycle WiSe
+
+Content
+
+Special Aspects of Shallow Water Hydrodynamics, Vertical and Horizontal Constraints, Irregularities in Channel Bed
+
+Fundamental Equations of Shallow Water Hydrodynamics
+
+Approximation of Shallow Water Waves, Boussinesq’s Approximation
+
+Ship Waves in Deep Water and under critical, non-critical and supercritical Velocities
+
+Solitary Wves, Critical Speed Range, Extinction of Waves
+
+Aspects of Ship motions in Canals with limited water depth
+
+Literature
+
+PNA (1988): Principle of Naval Architecture, Vol. II, ISBN 0-939773-01-5
+
+Schneekluth (1988): Hydromechanik zum Schiffsentwurf
+
+Jiang, T. (2001): Ship Waves in Shallow Water, Fortschritt-Berichte VDI, Series 12, No 466, ISBN 3-18-346612-0
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M1232: Arctic Technology
+
+Courses
+
+Title
+
+Ice Engineering (L1607)
+
+Ice Engineering (L1615)
+
+Ship structural design for arctic conditions (L1575)
+
+Module Responsible Prof. Sören Ehlers
+
+Admission Requirements None
+
+Recommended Previous
+
+none
+
+Knowledge
+
+Typ
+
+Lecture
+
+Recitation Section (small)
+
+Project-/problem-based Learning
+
+Hrs/wk
+
+CP
+
+2
+
+1
+
+2
+
+2
+
+2
+
+2
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge The  challenges  and  requirements  due  to  ice  can  be  explained.  Ice  loads  can  be  explained  and  ice  strengthening  can  be
+
+understood.
+
+Skills The challenges and requirements due to ice can be assessed and the accuracy of these assessment can be evaluated. Calculation
+
+models to assess ice loads can be used and a structure can be designed accordingly.
+
+Personal Competence
+
+Social Competence Students are capable to present their structural design and discuss their decisions constructively in a group.
+
+Autonomy Independent  and  individual  assignment  tasks  can  be  carried  out  and  presented  whereby  the  capabilities  to  both,  present  and
+
+defend, the skills and findings will be achieved.
+
+Workload in Hours Independent Study Time 110, Study Time in Lecture 70
+
+Credit points 6
+
+Course achievement None
+
+Examination Oral exam
+
+Examination duration and
+
+30 min
+
+scale
+
+Assignment for the
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Following Curricula
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Ship and Offshore Technology: Core Qualification: Elective Compulsory
+
+Theoretical Mechanical Engineering: Specialisation Maritime Technology: Elective Compulsory
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L1607: Ice Engineering
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 2
+
+Workload in Hours Independent Study Time 32, Study Time in Lecture 28
+
+Lecturer Dr. Walter Kuehnlein
+
+Language DE/EN
+
+Cycle WiSe
+
+Content
+
+1.  Ice, Ice Properties, Ice Failure Modes and Challenges and Requirements due to Ice
+
+Introduction, what is/means ice engineering
+
+Description of different kinds of ice, main ice properties and different ice failure modes
+
+Why is ice so different compared to open water
+
+Presentation of design challenges and requirements for structures and systems in ice covered waters
+
+2.  Ice Load Determination and Ice Model Testing
+
+Overview of different empirical equations for simple determination of ice loads
+
+Discussion and interpretation of the different equations and results
+
+Introduction to ice model tests
+
+What are the requirements for ice model tests, what parameters have to be scaled
+
+What can be simulated and how to use the results of such ice model tests
+
+3.  Computational Modelling of Ice-Structure Interaction Processes
+
+Dynamic fracture and continuum mechanics for modelling ice-structure interaction processes
+
+Alternative  numerical  crack  propagation  modelling  methods.  Examples  of  cohesive  element  models  for  real  life
+
+structures.
+
+Discussion of contribution of ice properties, hydrodynamics and rubble.
+
+4.  Ice Design Philosophies and Perspectives
+
+What has to be considered when designing structures or systems for ice covered waters
+
+What are the main differences compared to open water design
+
+Ice Management
+
+What are the main ice design philosophies and why is an integrated concept so important for ice
+
+Learning Objectives
+
+The  course  will  provide  an  introduction  into  ice  engineering.  Diﬀerent  kinds  of  ice  and  their  diﬀerent  failure  modes  including
+
+numerical  methods  for  ice  load  simulations  are  presented.  Main  design  issues  including  design  philosophies  for  structures  and
+
+systems for ice covered waters are introduced. The course shall enable the attendees to understand the fundamental challenges
+
+due to ice covered waters and help them to understand ice engineering reports and presentations.
+
+Literature
+
+Proceedings OMAE
+
+Proceedings POAC
+
+Proceedings ATC
+
+Course L1615: Ice Engineering
+
+Typ Recitation Section (small)
+
+Hrs/wk 1
+
+CP 2
+
+Workload in Hours Independent Study Time 46, Study Time in Lecture 14
+
+Lecturer Dr. Walter Kuehnlein
+
+Language DE/EN
+
+Cycle WiSe
+
+Content See interlocking course
+
+Literature See interlocking course
+
+Course L1575: Ship structural design for arctic conditions
+
+Typ Project-/problem-based Learning
+
+Hrs/wk 2
+
+CP 2
+
+Workload in Hours Independent Study Time 32, Study Time in Lecture 28
+
+Lecturer Dr. Rüdiger Ulrich Franz von Bock und Polach, Dr. Rüdiger Ulrich Franz von Bock und Polach
+
+Language DE/EN
+
+Cycle WiSe
+
+Content The structural design under ice loads will be carried out for an individual case
+
+Literature FSICR, IACS PC and assorted publications
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Module M1240: Fatigue Strength of Ships and Offshore Structures
+
+Courses
+
+Title
+
+Fatigue Strength of Ships and Offshore Structures (L1521)
+
+Fatigue Strength of Ships and Offshore Structures (L1522)
+
+Module Responsible Prof. Sören Ehlers
+
+Admission Requirements None
+
+Typ
+
+Lecture
+
+Recitation Section (small)
+
+Hrs/wk
+
+2
+
+2
+
+CP
+
+3
+
+3
+
+Recommended Previous
+
+Structural analysis of ships and/or offshore structures and fundamental knowledge in mechanics and mechanics of materials
+
+Knowledge
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge Students are able to
+
+describe fatigue loads and stresses, as well as
+
+describe structural behaviour under cyclic loads.
+
+Skills Students are able to calculate life prediction based on the S-N approach as well as life prediction based on the crack propagation.
+
+Personal Competence
+
+Social Competence The  students  are  able  to  communicate  and  cooperate  in  a  professional  environment  in  the  shipbuilding  and  component  supply
+
+industry.
+
+Autonomy The widespread scope of gained knowledge enables the students to handle situations in their future profession independently and
+
+confidently.
+
+Workload in Hours Independent Study Time 124, Study Time in Lecture 56
+
+Credit points 6
+
+Course achievement None
+
+Examination Oral exam
+
+Examination duration and
+
+30 min
+
+scale
+
+Assignment for the
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Following Curricula
+
+Naval Architecture and Ocean Engineering: Core Qualification: Elective Compulsory
+
+Ship and Offshore Technology: Core Qualification: Elective Compulsory
+
+Theoretical Mechanical Engineering: Specialisation Maritime Technology: Elective Compulsory
+
+Course L1521: Fatigue Strength of Ships and Offshore Structures
+
+Typ Lecture
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Dr. Moritz Braun
+
+Language EN
+
+Cycle WiSe
+
+Content 1.) Introduction
+
+2.) Fatigue loads and stresses
+
+3.) Structural behaviour under cyclic loads
+
+- Structural behaviour under constant amplitude loading
+
+- Influence factors on fatigue strength
+
+- Material behaviour under contant amplitude loading
+
+- Special aspects of welded joints
+
+- Structural behaviour under variable amplitude loading
+
+4.) Life prediction based on the S-N approach
+
+- Damage accumulation hypotheses
+
+- nominal stress approach
+
+- structural stress approach
+
+- notch stress approach
+
+- notch strain approach
+
+- numerical analyses
+
+5.) Life prediction based on the crack propagation
+
+- basic relationships in fracture mechanics
+
+- description of crack propagation
+
+- numerical analysis
+
+- safety against unstable fracture
+
+Literature Siehe Vorlesungsskript
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Course L1522: Fatigue Strength of Ships and Offshore Structures
+
+Typ Recitation Section (small)
+
+Hrs/wk 2
+
+CP 3
+
+Workload in Hours Independent Study Time 62, Study Time in Lecture 28
+
+Lecturer Dr. Moritz Braun
+
+Language EN
+
+Cycle WiSe
+
+Content See interlocking course
+
+Literature See interlocking course
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Thesis
+
+Module M-002: Master Thesis
+
+Courses
+
+Title
+
+Module Responsible Professoren der TUHH
+
+Admission Requirements
+
+According to General Regulations §21 (1):
+
+Typ
+
+Hrs/wk
+
+CP
+
+At least 60 credit points have to be achieved in study programme. The examinations board decides on exceptions.
+
+Recommended Previous
+
+Knowledge
+
+Educational Objectives After taking part successfully, students have reached the following learning results
+
+Professional Competence
+
+Knowledge
+
+The  students  can  use  specialized  knowledge  (facts,  theories,  and  methods)  of  their  subject  competently  on  specialized
+
+issues.
+
+The  students  can  explain  in  depth  the  relevant  approaches  and  terminologies  in  one  or  more  areas  of  their  subject,
+
+describing current developments and taking up a critical position on them.
+
+The  students  can  place  a  research  task  in  their  subject  area  in  its  context  and  describe  and  critically  assess  the  state  of
+
+research.
+
+Skills The students are able:
+
+To select, apply and, if necessary, develop further methods that are suitable for solving the specialized problem in question.
+
+To  apply  knowledge  they  have  acquired  and  methods  they  have  learnt  in  the  course  of  their  studies  to  complex  and/or
+
+incompletely defined problems in a solution-oriented way.
+
+To develop new scientific findings in their subject area and subject them to a critical assessment.
+
+Personal Competence
+
+Social Competence Students can
+
+Both  in  writing  and  orally  outline  a  scientiﬁc  issue  for  an  expert  audience  accurately,  understandably  and  in  a  structured
+
+way.
+
+Deal with issues competently in an expert discussion and answer them in a manner that is appropriate to the addressees
+
+while upholding their own assessments and viewpoints convincingly.
+
+Autonomy Students are able:
+
+To structure a project of their own in work packages and to work them off accordingly.
+
+To work their way in depth into a largely unknown subject and to access the information required for them to do so.
+
+To apply the techniques of scientific work comprehensively in research of their own.
+
+Workload in Hours Independent Study Time 900, Study Time in Lecture 0
+
+Credit points 30
+
+Course achievement None
+
+Examination Thesis
+
+Examination duration and
+
+According to General Regulations
+
+scale
+
+Assignment for the
+
+Civil Engineering: Thesis: Compulsory
+
+Following Curricula
+
+Bioprocess Engineering: Thesis: Compulsory
+
+Chemical and Bioprocess Engineering: Thesis: Compulsory
+
+Chemical and Bioprocess Engineering: Thesis: Compulsory
+
+Computational Engineering: Thesis: Compulsory
+
+Computer Science: Thesis: Compulsory
+
+Data Science: Thesis: Compulsory
+
+Electrical Engineering and Information Technology: Thesis: Compulsory
+
+Electrical Engineering: Thesis: Compulsory
+
+Energy Systems: Thesis: Compulsory
+
+Environmental Engineering: Thesis: Compulsory
+
+Aircraft Systems Engineering: Thesis: Compulsory
+
+Global Innovation Management: Thesis: Compulsory
+
+Computer Science in Engineering: Thesis: Compulsory
+
+Information and Communication Systems: Thesis: Compulsory
+
+Interdisciplinary Mathematics: Thesis: Compulsory
+
+International Production Management: Thesis: Compulsory
+
+International Management and Engineering: Thesis: Compulsory
+
+
+Module Manual M.Sc. "Ship and Offshore
+Technology"
+
+Joint European Master in Environmental Studies - Cities and Sustainability: Thesis: Compulsory
+
+Logistics, Infrastructure and Mobility: Thesis: Compulsory
+
+Aeronautics: Thesis: Compulsory
+
+Mechanical Engineering - Product Development and Production: Thesis: Compulsory
+
+Materials Science and Engineering: Thesis: Compulsory
+
+Materials Science: Thesis: Compulsory
+
+Mechanical Engineering and Management: Thesis: Compulsory
+
+Mechatronics: Thesis: Compulsory
+
+Biomedical Engineering: Thesis: Compulsory
+
+Microelectronics and Microsystems: Thesis: Compulsory
+
+Product Development, Materials and Production: Thesis: Compulsory
+
+Renewable Energies: Thesis: Compulsory
+
+Naval Architecture and Ocean Engineering: Thesis: Compulsory
+
+Naval Architecture and Ocean Engineering: Thesis: Compulsory
+
+Ship and Offshore Technology: Thesis: Compulsory
+
+Theoretical Mechanical Engineering: Thesis: Compulsory
+
+Process Engineering: Thesis: Compulsory
+
+Water and Environmental Engineering: Thesis: Compulsory
+
+Certification in Engineering & Advisory in Aviation: Thesis: Compulsory
